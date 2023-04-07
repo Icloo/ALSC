@@ -134,45 +134,39 @@ Engagée sur le territoire local et dans de nombreuses associations, Cathy souha
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=1">
+                            <img class="img-fluid" src="../public/20180901_112346.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=2">
+                            <img class="img-fluid" src="../public/245227387_4390597974320499_7239487432505787691_n.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=3">
+                            <img class="img-fluid" src="../public/311581943_482677943899965_8179245929170364543_n.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=4">
+                            <img class="img-fluid" src="../public/316407301_508425044658588_7793263675068179550_n 1.png">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=5">
+                            <img class="img-fluid" src="../public/expo Association Vendredi Issoire 26 aout.jpg">
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=6">
-                        </div>
-                    </div>
-                </div>
+             
             </div>
             <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
