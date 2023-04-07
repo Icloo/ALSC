@@ -116,15 +116,17 @@
 
 <div class="espaceur"></div>
 
+<h2>Le département du Puy-de-Dôme</h2>
+<div class="espaceur"></div>
 <div class="partenaires_5">
 
-    <h2>Le département du Puy-de-Dôme</h2>
+  
 
     <div class="espaceur"></div>
 
     <div class="partenaires_photo_texte">
 
-
+  
         <div class="partenaires_5_photo"></div>
 
         <div class="partenaires_2_texte">
