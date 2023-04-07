@@ -51,7 +51,7 @@
     <h2 class="adhe2" >Devenez adhérant</h2> 
     <p>
         Si vous avez du temps libre et du <br> coeur, notre équipe à besoin de <br> vous ! <br>
-        Cliquez-ici pour télécharger le <br> bulletin d’adhésion . 
+        <a href="#">Cliquez-ici</a> pour télécharger le <br> bulletin d’adhésion . 
     </p>   
     <div>
         <h2 class="donn2">Soyer donnateur</h2>
