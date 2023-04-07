@@ -193,6 +193,16 @@ footer h3 {
     border-radius: 15px;
 }
 
+.accueil_2_droite_1 {
+    background-image: url('../20220627_120445.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
 h2 {
     color: #FF6203 !important;
     text-align: center;
@@ -343,36 +353,48 @@ span {
 
 .nos_missions_5_photos_gauche {
     
-    background-image: url('../308255347_452885903577219_4412123210667523789_n.jpg');
+    background-image: url('../nos_missions_gauche_blur.png');
     background-size: cover;
     background-position: center;
     width: 45%;
     border-radius: 15px;
-    webkit-filter: blur(4px); /* Chrome, Safari, Opera */
-    filter: blur(4px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .nos_missions_5_photos_gauche:hover {
-    webkit-filter: blur(0px); /* Chrome, Safari, Opera */
-    filter: blur(0px);
+
+    transform: scale(1.05);
     transition: ease-in-out 0.5s;
+    cursor: pointer;
+    
+}
+
+.nos_missions_5_photos_gauche h3 {
+  color: white;
 }
 
 
 .nos_missions_5_photos_droite {
-    background-image: url('../IMG_6172.jpg');
+    background-image: url('../nos_missions_droite_blur.png');
     background-size: cover;
     background-position: center;
     width: 45%;
     border-radius: 15px;
-    webkit-filter: blur(4px); /* Chrome, Safari, Opera */
-    filter: blur(4px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nos_missions_5_photos_droite h3 {
+    color: white;
 }
 
 .nos_missions_5_photos_droite:hover {
-    webkit-filter: blur(0px); /* Chrome, Safari, Opera */
-    filter: blur(0px);
+    transform: scale(1.05);
     transition: ease-in-out 0.5s;
+    cursor: pointer;
 }
 
 .nos_missions_5_photos {
@@ -443,15 +465,39 @@ form{
     display: flex;
     flex-direction: column;
     margin-left: 3rem;
+    margin-bottom: 3rem;
 }
 
-input , textarea{
-    height: 22%;
-    width: 22%;
+.para_contact{
+    margin: 2rem 4rem 2rem 4rem;
 }
 
 .map{
     margin: 45px ;
+}
+.local{
+    text-align: center;
+}
+.inp{
+    width: 500px;
+    height: 45px;
+
+}
+.btn2{
+    padding: 2vh 3vw 2vh 3vw;
+    background-color: #FDB515;
+    cursor: pointer;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+.int{
+    margin-top: 2rem;
+}
+.fmap{
+    display: flex;
+    justify-content: space-around;
 }
 
 /* ************************************************************* */
@@ -523,6 +569,21 @@ input , textarea{
     margin-right: auto;
 }
 
+.partenaires_6_photo {
+    background-image: url('../logo_ml.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.partenaires_5 {
+    display: flex;
+    justify-content: center;
+}
+
 /* ************************************************************ */
 
 .loader-container {
@@ -540,3 +601,179 @@ input , textarea{
 
 
 /* ************************************************************ */
+
+
+.hero_qsn {
+    background-image: url('../hero.contact.png');
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.qsn_1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.qsn_texte {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.qsn_1_image {
+    background-image: url('../cathy.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+.qsn_2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.qsn_2_image {
+    background-image: url('../316407301_508425044658588_7793263675068179550_n\ 1.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.qsn_3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.qsn_3_image {
+    background-image: url('../maison_1.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.qsn_4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #6EBB13;
+    padding-top: 5vh;
+    padding-bottom: 4vh;
+    color: #f5f5f5;
+}
+
+.qsn_4_droite {
+    display: flex;
+    justify-content: space-between;
+    gap: 5vw;
+}
+
+/* ************************************************************ */
+@media (max-width: 768px) {
+    .carousel-inner .carousel-item > div {
+        display: none;
+    }
+    .carousel-inner .carousel-item > div:first-child {
+        display: block;
+    }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+    display: flex;
+}
+
+/* display 3 */
+@media (min-width: 768px) {
+    
+    .carousel-inner .carousel-item-right.active,
+    .carousel-inner .carousel-item-next {
+      transform: translateX(33.333%);
+    }
+    
+    .carousel-inner .carousel-item-left.active, 
+    .carousel-inner .carousel-item-prev {
+      transform: translateX(-33.333%);
+    }
+}
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left{ 
+  transform: translateX(0);
+}
+
+/* **************************************************************************** */
+
+
+.titre2{
+    text-decoration: underline;
+}
+
+/* Contributions */
+
+.hero_contributions {
+    background-image: url('../contribution.png');
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.cont{
+    display: flex;
+    justify-content: space-around;
+    margin: 4rem 2rem 0 2rem;
+}
+
+.adhe{
+    /* display: flex;
+    flex-direction: column; */
+    margin: 4rem 2rem 1rem 4rem ;
+}
+
+.adhe2{
+    text-align: left;
+}
+.adhé{
+    width: 300px;
+    height: 150px;
+}
+.prix{
+    margin: auto;
+    width: 476px;
+    height: 258px;
+}
+
+.loge{
+    display: flex;
+    justify-content: space-around;
+    margin: 4rem 0 5rem 5rem;
+}
+
+.donn{
+    display: flex;
+    justify-content: space-around;
+}
+.donn2{
+    text-align: left;
+}
+
+.dipl{
+    text-align: center;
+}

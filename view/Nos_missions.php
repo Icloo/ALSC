@@ -138,12 +138,12 @@
     <div class="nos_missions_5_photos">
 
         <div class="nos_missions_5_photos_gauche">
-            
+            <h3> Á LA RECHERCHE D’UN LOGEMENT ?</h3>
         </div>
    
 
         <div class="nos_missions_5_photos_droite">
-
+            <h3>VOUS ÊTES PROPRIETAIRE ?</h3>
         </div>
 
     </div>
