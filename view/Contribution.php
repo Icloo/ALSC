@@ -64,7 +64,7 @@
 </div>
 <div class="loge">
     <div>
-        <h2>L'action par le logement</h2>
+        <h2 class="loge3">L'action par le logement</h2>
         <li>5 propriétaires solidaires </li>
         <li>9 Logements</li>
         <li>32 famille logées</li>
