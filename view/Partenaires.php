@@ -36,7 +36,7 @@
 
 <div class="espaceur"></div>
 
-<h2>Le réseau de ALSC</h2>
+<h2 class="titre2">Le réseau de ALSC</h2>
 
 <div class="espaceur"></div>
 

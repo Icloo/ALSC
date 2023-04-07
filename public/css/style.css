@@ -443,17 +443,31 @@ form{
     display: flex;
     flex-direction: column;
     margin-left: 3rem;
+    margin-bottom: 3rem;
 }
 
-input , textarea{
-    height: 22%;
-    width: 22%;
+.para_contact{
+    margin: 2rem 4rem 2rem 4rem;
 }
 
 .map{
     margin: 45px ;
 }
+.local{
+    text-align: center;
+}
+.inp{
+    width: 500px;
+    height: 45px;
 
+}
+.int{
+    margin-top: 2rem;
+}
+.fmap{
+    display: flex;
+    justify-content: space-around;
+}
 /* ************************************************************* */
 
 
@@ -540,3 +554,7 @@ input , textarea{
 
 
 /* ************************************************************ */
+
+.titre2{
+    text-decoration: underline;
+}
