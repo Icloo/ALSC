@@ -9,7 +9,7 @@
             <a href="./Partenaires.php">Partenaires</a>
             <a href="./Qui_sommes_nous.php">Qui sommes-nous ?</a>
             <a href="./Contact.php">Contact</a>
-            <a href="#">Dons et adhérence</a>
+            <a href="./Contribution.php">Dons & Adhérence</a>
             <a href="#">Mentions légales</a>
             <a href="#">Politique de confidentialité</a>
             <a href="#">CGU</a>
