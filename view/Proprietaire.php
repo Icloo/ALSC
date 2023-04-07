@@ -43,22 +43,25 @@
     garantissons un logement remis en état et en plus vous ne déclarez seulement que 15% des revenus fonciers.
 </p>
 
-<div class="espaceur"></div>
 
 <div class="block">
     <div>
         <div>
+        <div class="espaceur"></div>
             <h2 class="titre">La sous location ? Une solution ! </h2>
             <p>
                 La convention location implique que le propriétaire
-                solidaire accorde une réduction de 20% pour soutenir
+                solidaire accorde une réduction <br>de 20% pour soutenir
                 l’association qui supporte l’intégralité des
                 risques locatifs.
             </p>
             <p>
                 C'est un travail collaborateur avec les municipalités et la
-                région. Nous étudions la situation des personnes en
+                région. Nous étudions <br>la situation des personnes en
                 situation précaire.
+            </p>
+            <p>
+                Nous sommes votre locataire et nous garantissons vos loyers et la remise en état<br> de votre logement. 
             </p>
         </div>
         <div class="espaceur"></div>
@@ -77,17 +80,19 @@
 </div>
 <div class="Block3">
 <h2>Contribuez avec ALSC</h2>
+
 <div class="block2">
-<p class="para1">Contribuez à notre mission d’insertion par le logement et œuvrez en <br> faveur des personnes “sans toits” et devenez des acteurs majeurs de <br> notre mission. </p>
-<p class="para1">Nous lançons un appel aux propriétaire privés ! </p>
-<p class="para1">Le prix au mêtre carré (m2), aussi appelé tarif social est fixé par <br> l’Anah : <br>
-En 2020 il est de 7,20 </p>
+
+<p>
+    Contribuez à notre mission d’insertion par le logement et œuvrez en <br> faveur des personnes “sans toits” et devenez des acteurs majeurs de <br> notre mission. </p>
+    Nous lançons un appel aux propriétaire privés !
+    Le prix au mêtre carré (m2), aussi appelé tarif social est fixé par
+    l’Anah :
+    En 2020 il est de 7,20€
 </p>
 </div>
 
 </div>
-
-
 
 
 
