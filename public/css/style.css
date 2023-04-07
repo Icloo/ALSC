@@ -759,6 +759,8 @@ form{
 }
 .prix{
     margin: auto;
+    margin-right: 3rem;
+    border-radius: 8px;
     width: 476px;
     height: 258px;
 }
@@ -779,4 +781,5 @@ form{
 
 .dipl{
     text-align: center;
+    margin-right: 3rem;
 }
