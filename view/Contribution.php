@@ -51,8 +51,9 @@
     <h2 class="adhe2" >Devenez adhérant</h2> 
     <p>
         Si vous avez du temps libre et du <br> coeur, notre équipe à besoin de <br> vous ! <br>
-        <a href="#">Cliquez-ici</a> pour télécharger le <br> bulletin d’adhésion . 
-    </p>   
+        <a href="#">Cliquez-ici</a> pour télécharger le <br> bulletin d’adhésion. 
+    </p>
+    <div class="espaceur"></div>   
     <div>
         <h2 class="donn2">Soyer donnateur</h2>
         <p>
@@ -64,6 +65,7 @@
 </div>
 <div class="loge">
     <div>
+    <div class="espaceur"></div> 
         <h2 class="loge3">L'action par le logement</h2>
         <li>5 propriétaires solidaires </li>
         <li>9 Logements</li>
