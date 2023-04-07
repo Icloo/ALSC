@@ -35,7 +35,7 @@
 
 <div class="espaceur"></div>
 
-<h2 class="titre2"> Proprietaire et solidaires</h2>
+<h2> Proprietaire et solidaires</h2>
 
 <p class="para">
     Dans un esprit de solidarité, nous recherchons des propriétaires dit solidaires, c’est-à-dire dont le souhait est d’aider des personnes en situation précaire à

@@ -121,7 +121,7 @@
 
     </div>
 
-    <div class="accueil_2_droite"></div>
+    <div class="accueil_2_droite_1"></div>
 
 
 </div>

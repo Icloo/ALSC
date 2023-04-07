@@ -36,7 +36,7 @@
 
 <div class="espaceur"></div>
 
-<h2 class="titre2">Le réseau de ALSC</h2>
+<h2>Le réseau de ALSC</h2>
 
 <div class="espaceur"></div>
 
@@ -60,10 +60,7 @@
     <div class="partenaires_photo_texte">
 
         <div class="partenaires_2_texte">
-            <p>La convention location implique que le propriétaire solidaire accorde une réduction de 20% pour soutenir l’association qui supporte l’intégralité des risques locatifs.
-                <br>
-                <br>
-                C’est un travail collaboratif avec les municipalités et la région. Nous étudions la situation des personnes en situation précaire  </p>
+            <p>Avec près de 300 associations, Issoire offre à chacun l’opportunité de pratiquer des activités culturelles et sportives, ou de s’engager au service des autres. La Charte de la vie associative traduit le partenariat important entre la municipalité et les associations : de nombreux moyens sont mis à disposition pour la vie associative.</p>
         </div>
         <div class="partenaires_2_photo"></div>
 
@@ -85,10 +82,9 @@
         <div class="partenaires_3_photo"></div>
 
         <div class="partenaires_2_texte">
-            <p>La convention location implique que le propriétaire solidaire accorde une réduction de 20% pour soutenir l’association qui supporte l’intégralité des risques locatifs.
-                <br>
-                <br>
-                C’est un travail collaboratif avec les municipalités et la région. Nous étudions la situation des personnes en situation précaire  </p>
+            <p>
+                Le Rotary tire sa force du dynamisme et de l’engagement de ses 1,4 million de membres dans plus de 46 000 clubs dans le monde.</p><p> Ensemble, nous changeons des vies dans notre ville et à travers le monde.</p>
+            </p>
         </div>
         
 
@@ -109,10 +105,7 @@
     <div class="partenaires_photo_texte">
 
         <div class="partenaires_2_texte">
-            <p>La convention location implique que le propriétaire solidaire accorde une réduction de 20% pour soutenir l’association qui supporte l’intégralité des risques locatifs.
-                <br>
-                <br>
-                C’est un travail collaboratif avec les municipalités et la région. Nous étudions la situation des personnes en situation précaire  </p>
+            <p> La vocation de l’espace dynamique consiste à accueillir des jeunes en grande difficulté et à répondre par un traitement individualisé à l’ensemble des difficultés qu’ils rencontrent. Ainsi, cette approche globale vise l’acquisition par les jeunes, de repères, de la restauration de leur l’image et de leur accession à des apprentissages professionnels.<p> L’espace propose un soutien sur le long terme permettant ainsi d’offrir à chaque jeune d’élaborer et de structurer son projet personnel. </p></p>
         </div>
         <div class="partenaires_6_photo"></div>
 
@@ -135,10 +128,7 @@
         <div class="partenaires_5_photo"></div>
 
         <div class="partenaires_2_texte">
-            <p>La convention location implique que le propriétaire solidaire accorde une réduction de 20% pour soutenir l’association qui supporte l’intégralité des risques locatifs.
-                <br>
-                <br>
-                C’est un travail collaboratif avec les municipalités et la région. Nous étudions la situation des personnes en situation précaire  </p>
+            <p>300 alliés qui partagent leurs ressources et font communauté pour apprendre les uns des autres.</p> <p> L’association pour la promotion de la Fabrique représente à travers son collectif une force pour le Puy-de-Dôme en lui permettant d’expérimenter, de défricher avec de nouveaux partenaires des méthodes nouvelles, de faire preuve de plus d’agilité et de renforcer sa capacité d’innovation. </p>
         </div>
         
 
@@ -157,10 +147,7 @@
     <div class="partenaires_photo_texte">
 
         <div class="partenaires_2_texte">
-            <p>La convention location implique que le propriétaire solidaire accorde une réduction de 20% pour soutenir l’association qui supporte l’intégralité des risques locatifs.
-                <br>
-                <br>
-                C’est un travail collaboratif avec les municipalités et la région. Nous étudions la situation des personnes en situation précaire  </p>
+            <p>Toute personne qui travaille ou réside en France de manière stable et régulière a droit à la prise en charge de ses frais de santé à titre personnel et de manière continue tout au long de sa vie : tel est le principe de la protection universelle maladie.</p>
         </div>
         <div class="partenaires_4_photo"></div>
 
@@ -175,72 +162,14 @@
 
 <div class="espaceur"></div>
 
-<div class="container text-center my-3">
-    
-    <div class="row mx-auto my-auto">
-        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
-            <div class="carousel-inner w-100" role="listbox">
-                <div class="carousel-item active">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=1">
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=2">
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=3">
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=4">
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=5">
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="http://placehold.it/380?text=6">
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
-                <span class="sr-only">Précedent</span>
-            </a>
-            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
-                <span class="sr-only">Suivant</span>
-            </a>
-        </div>
-    </div>
+<div class="partenaires_5">
+<img src="../public/partenaires_autre.png">
+
+<div class="espaceur"></div>
 
 </div>
 
 <div class="espaceur"></div>
-
-
-
-
 
 
 
