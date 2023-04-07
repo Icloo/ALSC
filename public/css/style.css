@@ -479,6 +479,7 @@ form{
 }
 .local{
     text-align: center;
+    margin-top: -2rem;
 }
 .inp{
     width: 500px;

@@ -61,7 +61,7 @@ C’est que des avantages pour  vous, car nous vous donnons la garantie d’un l
             <label class="lab" for="obj">Objets</label>
             <textarea  name="" id="obj" cols="35" rows="5" placeholder="Objet"></textarea>
             <div class="int" >
-                <input type="radio" name="" id="btn">
+                <input type="checkbox" name="" id="btn">
                 <label for="btn">
                     En cochant cette case, vous confirmez avoir lu et acceptez nos <br>
                     conditions générales d'utilisation et notre politique de confidentialité.
@@ -73,10 +73,14 @@ C’est que des avantages pour  vous, car nous vous donnons la garantie d’un l
     <div>
         <h2>Nous localiser</h2>
         <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2794.367921061317!2d3.244441515095546!3d45.54292377910192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f65608fe4495bf%3A0x268f72563f321518!2s17%20Bd%20de%20la%20Manli%C3%A8re%2C%2063500%20Issoire!5e0!3m2!1sfr!2sfr!4v1680615310638!5m2!1sfr!2sfr" width="450" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        <p class="local" >
-            15 Bd de la Malière <br>
-            63500 Issoire, <br>
-            ouvert 6/7J
+        <p class="local">
+            15 Bd de la Malière<br>
+            63500 Issoire<br>
+            Lundi et Mardi de 9h à 16h30<br>
+            et le Mercredi matin<br>
+            de 9h à 11h30<br>
+            uniquement sur RDV.
+            <br><br>
         </p>
     </div>
 </div>
