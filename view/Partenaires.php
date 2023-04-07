@@ -99,9 +99,10 @@
 
 <div class="espaceur"></div>
 
+
 <div class="partenaires_4">
 
-    <h2>L’assurance maladie du Puy-de-Dôme</h2>
+    <h2>La mission locale de la ville d'Issoire</h2>
 
     <div class="espaceur"></div>
 
@@ -113,7 +114,7 @@
                 <br>
                 C’est un travail collaboratif avec les municipalités et la région. Nous étudions la situation des personnes en situation précaire  </p>
         </div>
-        <div class="partenaires_4_photo"></div>
+        <div class="partenaires_6_photo"></div>
 
     </div>
 
@@ -140,6 +141,28 @@
                 C’est un travail collaboratif avec les municipalités et la région. Nous étudions la situation des personnes en situation précaire  </p>
         </div>
         
+
+    </div>
+
+</div>
+
+<div class="espaceur"></div>
+
+<div class="partenaires_4">
+
+    <h2>L’assurance maladie du Puy-de-Dôme</h2>
+
+    <div class="espaceur"></div>
+
+    <div class="partenaires_photo_texte">
+
+        <div class="partenaires_2_texte">
+            <p>La convention location implique que le propriétaire solidaire accorde une réduction de 20% pour soutenir l’association qui supporte l’intégralité des risques locatifs.
+                <br>
+                <br>
+                C’est un travail collaboratif avec les municipalités et la région. Nous étudions la situation des personnes en situation précaire  </p>
+        </div>
+        <div class="partenaires_4_photo"></div>
 
     </div>
 
