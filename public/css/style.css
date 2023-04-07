@@ -22,11 +22,11 @@ nav a {
     color: #015FA7 !important;
 }
 
-nav button {
-    padding: 0vh 1vw 0vh 1vw !important;
-    background-color: #6EBB13 !important;
-    color: white !important;
+nav .lien {
+    background-color: #6EBB13;
+    color: #015FA7;
 }
+
 
 #dark {
     margin-left: 1vw;
