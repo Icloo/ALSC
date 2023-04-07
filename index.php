@@ -43,7 +43,7 @@
       <li class="nav-item">
         <a class="nav-link" href="./view/Contact.php">Contact</a>
       </li>
-      <button class="btn btn-outline-success" type="button"><a href="./view/Contribution.php">Dons & Adhérence</a></button>
+      <a href="./view/Contribution.php"><button class="btn btn-outline-success lien" type="button">Dons & Adhérence</button></a>
       <button class="btn btn-outline-success testtest" type="button" id="dark">Mode sombre <i class="fa-solid fa-moon"></i> </button>
     </ul>
   </div>
