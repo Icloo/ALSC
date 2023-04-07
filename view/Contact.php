@@ -67,7 +67,7 @@ C’est que des avantages pour  vous, car nous vous donnons la garantie d’un l
                     conditions générales d'utilisation et notre politique de confidentialité.
                 </label> 
             </div>
-            <button type="submit" class="accueil_bouton">Envoyer</button>
+            <button type="submit" class="btn2">Envoyer</button>
         </form>
     </div>
     <div>
