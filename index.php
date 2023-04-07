@@ -81,22 +81,22 @@
 
     <div class="accueil_1_sous_partie">
     <i class="fa-solid fa-house-crack"></i>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit suscipit animi distinctio culpa omnis. Officia, nobis aliquam necessitatibus voluptate illo ut quaerat similique reprehenderit delectus ab esse dicta, placeat tempore.
+    Promouvoir l’autonomie et l’insertion par le logement afin de prévenir les exclusions sociales
     </div>
 
     <div class="accueil_1_sous_partie interieur">
     <i class="fa-solid fa-book-open"></i>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo nostrum, fugiat explicabo repellendus blanditiis magni aliquid atque veniam necessitatibus quas ad labore odit omnis hic assumenda, sit possimus animi consequatur!
+    Contribuer à éducation à la citoyenneté, au développement du lien social et au renforcement de la cohésion territoriale.
     </div>
 
     <div class="accueil_1_sous_partie interieur">
     <i class="fa-solid fa-hand-holding-heart"></i>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, blanditiis excepturi fuga impedit qui ea repellendus. At numquam voluptates laboriosam minus, sequi itaque, consequatur deleniti repellendus, optio cumque eos! Obcaecati.
+    Proposer des réponses adaptées aux difficultés des personnes qu’elle accompagne.
     </div>
 
     <div class="accueil_1_sous_partie interieur">
     <i class="fa-solid fa-medal"></i>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, magnam voluptas. Voluptates eos dicta veniam perferendis autem distinctio doloremque amet aliquid doloribus architecto quas, repellat neque dolorem accusantium cum accusamus.
+    Aider les personnes à accéder au logement autonome, à s’insérer dans ce logement et à s’y maintenir.
     </div>
 
 
@@ -114,9 +114,8 @@
     <div class="accueil_2_gauche">
 
         <h2>Nos actions</h2>
-
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi in expedita ipsam unde quas distinctio tempore aperiam, libero alias asperiores doloremque accusantium sunt voluptatem, aliquam necessitatibus quo nobis quae earum.</p>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam cupiditate voluptate, eligendi modi expedita eveniet quasi? Ratione pariatur culpa at delectus, fuga blanditiis odit reiciendis repudiandae earum sit maiores dignissimos.</p>
+        <div class="espaceur"></div>
+        <p>L’Association s’appuie sur le principe de l’intermediation locative. Notre principale mission ? Prendre en charge des logements de propriétaires privés, qui laissent à l’association la gestion de leur bien, afin de permettre à des familles d’accéder à un logement. </p>
 
         <div class="accueil_bouton"> En savoir + </div>
 
@@ -142,9 +141,8 @@
     <div class="accueil_2_gauche">
 
         <h2>Notre histoire</h2>
-
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi in expedita ipsam unde quas distinctio tempore aperiam, libero alias asperiores doloremque accusantium sunt voluptatem, aliquam necessitatibus quo nobis quae earum.</p>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam cupiditate voluptate, eligendi modi expedita eveniet quasi? Ratione pariatur culpa at delectus, fuga blanditiis odit reiciendis repudiandae earum sit maiores dignissimos.</p>
+        <div class="espaceur"></div>
+        <p>Installée depuis 2003 en Auvergne, et issue des métiers de la logistique, cathy a toujours été une femme de terrain. Engagée sur le territoire local...</p>
 
         <div class="accueil_bouton"> En savoir + </div>
 
@@ -179,32 +177,67 @@
 
     <h2>Nos Partenaires</h2>
 
-        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-            <img class="logo_partenaire" src="public/logo_cpam.jpg" alt="CPAM">
+        
+<div class="container text-center my-3">
+
+    <div class="row mx-auto my-auto">
+        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
+            <div class="carousel-inner w-100" role="listbox">
+                <div class="carousel-item active">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="http://placehold.it/380?text=1">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="http://placehold.it/380?text=2">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="http://placehold.it/380?text=3">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="http://placehold.it/380?text=4">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="http://placehold.it/380?text=5">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="http://placehold.it/380?text=6">
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="carousel-item">
-            <img class="logo_partenaire" src="public/rotary-issoire.png" alt="Rotary issoire">
-            </div>
-            <div class="carousel-item">
-            <img class="logo_partenaire" src="public/Ville_Issoire_Q_300dpi.jpg" alt="Ville d'issoire">
-            </div>
+            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Précédent</span>
+            </a>
+            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Suivant</span>
+            </a>
         </div>
-        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Précedent</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Suivant</span>
-        </a>
-        </div>
+    </div>
+
+</div>
 
 
 
