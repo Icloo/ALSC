@@ -137,14 +137,21 @@
 
     <div class="nos_missions_5_photos">
 
+    
         <div class="nos_missions_5_photos_gauche">
+        <a href="Locataires.php">
             <h3> Á LA RECHERCHE D’UN LOGEMENT ?</h3>
+            </a>
         </div>
-   
 
+
+    
         <div class="nos_missions_5_photos_droite">
+        <a href="Proprietaire.php">
             <h3>VOUS ÊTES PROPRIETAIRE ?</h3>
+            </a>
         </div>
+    
 
     </div>
 

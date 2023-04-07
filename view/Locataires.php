@@ -50,7 +50,7 @@
         <div>
             <h2 class="titre">Comment obtenir un logement ?</h2>
             <p>
-                Après l’étude de votre dossier et en fonction des logements disponibles gérés par l’association, Nous signons une convention d’occupation temporaire pour une période déterminée.
+                Après l’étude de votre dossier et en fonction des logements disponibles gérés par l’association,Nous signons une convention d’occupation temporaire pour une période déterminée.
                 La finalité recherchée est de permettre à la personne d’être insérée socialement. 
             </p>
         </div>
