@@ -36,7 +36,7 @@
 <div class="espaceur"></div>
 
 <div class="nos_missions_1">
-    <h2>Association ALSC</h2>
+    <h2 class="titre2">Association ALSC</h2>
 
     <div class="espaceur"></div>
 

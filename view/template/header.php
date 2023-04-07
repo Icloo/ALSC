@@ -32,7 +32,7 @@
         <a class="nav-link" href="./Contact.php">Contact</a>
         </li>
    
-      <button class="btn btn-outline-success" type="button">Dons & Adhérence</button>
+      <button class="btn btn-outline-success" type="button"><a href="./Contribution.php">Dons & Adhérence</a> </button>
 
       <button class="btn btn-outline-success testtest" type="button" id="dark">Mode sombre <i class="fa-solid fa-moon"></i></button>
       
