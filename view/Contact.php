@@ -56,10 +56,10 @@ C’est que des avantages pour  vous, car nous vous donnons la garantie d’un l
             <input class="inp" type="text" id="name" placeholder="Nom">
             <label class="lab" for="prenom">Votre prénom</label>
             <input class="inp" type="text" id="prenom" placeholder="Prénom">
-            <label class="lab" for="mail">Votre e-mail</label>
-            <input class="inp" type="email" name="" id="mail" placeholder="Email">
-            <label class="lab" for="obj">Objets</label>
-            <textarea  name="" id="obj" cols="35" rows="5" placeholder="Objet"></textarea>
+            <label class="lab" for="email">Votre e-mail</label>
+            <input class="inp" type="mail" name="mail" id="mail" placeholder="Email">
+            <label class="lab" for="message">Objets</label>
+            <textarea  name="message" id="message" cols="35" rows="5" placeholder="Objet"></textarea>
             <div class="int" >
                 <input type="checkbox" name="" id="btn">
                 <label for="btn">
@@ -70,6 +70,22 @@ C’est que des avantages pour  vous, car nous vous donnons la garantie d’un l
             <button type="submit" class="btn2">Envoyer</button>
         </form>
     </div>
+    <?php
+    if (isset($_POST['message'])) {
+        $entete  = 'MIME-Version: 1.0' . "\r\n";
+        $entete .= 'Content-type: text/html; charset=utf-8' . "\r\n";
+        $entete .= 'From: webmaster@monsite.fr' . "\r\n";
+        $entete .= 'Reply-to: ' . $_POST['mail'];
+
+        $message = '<h1>Message envoyé depuis la page Contact de ALSC.fr</h1>
+        <p><b>Email : </b>' . $_POST['mail'] . '<br>
+        <b>Message : </b>' . htmlspecialchars($_POST['message']) . '</p>';
+
+        $retour = mail('loicbonafe@gmail.fr', 'Envoi depuis page Contact', $message, $entete);
+        if($retour)
+            echo '<p>Votre message a bien été envoyé.</p>';
+    }
+    ?>
     <div>
         <h2>Nous localiser</h2>
         <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2794.367921061317!2d3.244441515095546!3d45.54292377910192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f65608fe4495bf%3A0x268f72563f321518!2s17%20Bd%20de%20la%20Manli%C3%A8re%2C%2063500%20Issoire!5e0!3m2!1sfr!2sfr!4v1680615310638!5m2!1sfr!2sfr" width="450" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
