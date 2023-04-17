@@ -21,15 +21,15 @@
         <div class="footer_contact">
             <h2>Contact</h2>
             <div class="footer_div" id="footer_sombre">
-                mail 
+                asso.logement.solidaire.cathy@gmail.com 
                 <br>
-                numéro
+                Cathy 06 33 28 01 54
                 <br>
-                adresse
+                15 boulevard de la Manlière,
                 <br>
-                ville/code postal
+                Issoire/63500
                 <br>
-                pays
+                France
             </div>
         </div>
         <h3>Suivez-nous sur : <a href="https://www.facebook.com/AssociationLogementSolidaireCathy/?locale=fr_FR"><i class="fa-brands fa-square-facebook"></i></a> </h3>
@@ -37,13 +37,13 @@
     <div class="footer_gauche">
 
         <div class="logo_footer">
-            <img src="../public/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer">
-            <img src="../public/logo_puy_de_dome_transparent.png" class="taille_logo_footer">
+            <img src="../public/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer" alt="Logo Ville d'Issoire" >
+            <img src="../public/logo_puy_de_dome_transparent.png" class="taille_logo_footer"  alt="Logo Puy-De-Dome" >
         </div>
 
         <div class="logo_footer">
-            <img src="../public/rotary-issoire_transparent.png" class="taille_logo_footer">
-            <img src="../public/logo_cpam_transparent.png" class="taille_logo_footer">
+            <img src="../public/rotary-issoire_transparent.png" class="taille_logo_footer" alt="Logo Rotary issoire" >
+            <img src="../public/logo_cpam_transparent.png" class="taille_logo_footer" alt="Logo CPAM" >
         </div>
 
         <div class="espaceur"></div>

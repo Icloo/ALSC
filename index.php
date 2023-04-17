@@ -56,7 +56,7 @@
 <!--  -->
 <div class="loader-container">
     <div class="spinner"></div>
-    <img src="./public/Logo.png" class="logo">
+    <img src="./public/Logo.png" class="logo" alt="Logo">
   
 </div>
 
@@ -301,15 +301,15 @@
         <div class="footer_contact">
             <h2>Contact</h2>
             <div class="footer_div" id="footer_sombre">
-                mail 
+                asso.logement.solidaire.cathy@gmail.com
                 <br>
-                numéro
+                Cathy 06 33 28 01 54
                 <br>
-                adresse
+                15 boulevard de la Manlière,
                 <br>
-                ville/code postal
+                Issoire/63500
                 <br>
-                pays
+                France
             </div>
         </div>
         <h3>Suivez-nous sur : <a href="https://www.facebook.com/AssociationLogementSolidaireCathy/?locale=fr_FR"><i class="fa-brands fa-square-facebook"></i></a> </h3>

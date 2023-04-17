@@ -44,7 +44,7 @@
         Des dons <br> de vêtements, de vaisselle ainsi que de jouets sont aussi essentiels à la vie quotidienne. 
         L’associations compte <br> près de 10 donateurs actifs à ce jour. <br> «Nous comptons sur vous ! »
     </p>
-    <img class="adhé" src="../public/adhérer.PNG" alt="Dons & Adhérer">
+    <a href="#"><img class="adhé" src="../public/adhérer.PNG" alt="Dons & Adhérer"></a>
 </div>
 <div class="donn">
 <div class="adhe">
