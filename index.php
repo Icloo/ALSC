@@ -29,7 +29,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item" href="./view/Nos_missions.php">Nos missions</a>
-          <a class="dropdown-item" href="#">Locative</a>
+          <a class="dropdown-item" href="./view/Locataires.php">Locative</a>
           <a class="dropdown-item" href="./view/Proprietaire.php">Propriétaire</a>
          
         </div>
@@ -117,7 +117,7 @@
         <div class="espaceur"></div>
         <p>L’Association s’appuie sur le principe de l’intermediation locative. Notre principale mission ? Prendre en charge des logements de propriétaires privés, qui laissent à l’association la gestion de leur bien, afin de permettre à des familles d’accéder à un logement. </p>
 
-        <div class="accueil_bouton"> En savoir + </div>
+        <a href="./view/Nos_missions.php"><button class="accueil_bouton1" >En savoir + </button></a>
 
     </div>
 
@@ -144,7 +144,7 @@
         <div class="espaceur"></div>
         <p>Installée depuis 2003 en Auvergne, et issue des métiers de la logistique, cathy a toujours été une femme de terrain. Engagée sur le territoire local...</p>
 
-        <div class="accueil_bouton"> En savoir + </div>
+        <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2" >En savoir + </button></a>
 
     </div>
 
@@ -162,7 +162,7 @@
 
     <h2>Contactez-nous pour si vous avez plus de questions</h2>
     <div class="espaceur"></div>
-    <div class="accueil_bouton"> Cliquez ici </div>
+    <a href="./view/Contact.php"><button class="accueil_bouton3" >Cliquez ici </button></a>
 
 </div>
 

@@ -173,16 +173,25 @@ footer h3 {
     padding-right: 10vw;
 }
 
-.accueil_bouton {
+.accueil_bouton1 ,.accueil_bouton2 ,.accueil_bouton3 {
     padding: 2vh 3vw 2vh 3vw;
     background-color: #6EBB13;
     cursor: pointer;
     width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
     border-radius: 15px;
 }
 
+.accueil_bouton1{
+    margin-left: 40%;
+}
+
+.accueil_bouton2{
+    margin-left: 40%;
+}
+
+.accueil_bouton3{
+    margin-left: 40%;
+}
 .accueil_2_droite {
     background-image: url('../20180831_203348.jpg');
     background-size: cover;
