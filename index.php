@@ -317,13 +317,13 @@
     <div class="footer_gauche">
 
         <div class="logo_footer">
-            <img src="./public/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer">
-            <img src="./public/logo_puy_de_dome_transparent.png" class="taille_logo_footer">
+            <img src="./public/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer"  alt="Logo Ville d'Issoire">
+            <img src="./public/logo_puy_de_dome_transparent.png" class="taille_logo_footer"  alt="Logo Puy-De-Dome">
         </div>
 
         <div class="logo_footer">
-            <img src="./public/rotary-issoire_transparent.png" class="taille_logo_footer">
-            <img src="./public/logo_cpam_transparent.png" class="taille_logo_footer">
+            <img src="./public/rotary-issoire_transparent.png" class="taille_logo_footer"  alt="Logo Rotary issoire">
+            <img src="./public/logo_cpam_transparent.png" class="taille_logo_footer"  alt="Logo CPAM">
         </div>
 
         <div class="espaceur"></div>

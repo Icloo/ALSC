@@ -44,7 +44,7 @@
         Des dons <br> de vêtements, de vaisselle ainsi que de jouets sont aussi essentiels à la vie quotidienne. 
         L’associations compte <br> près de 10 donateurs actifs à ce jour. <br> «Nous comptons sur vous ! »
     </p>
-    <img class="adhé" src="../public/adhérer.PNG" alt="">
+    <img class="adhé" src="../public/adhérer.PNG" alt="Dons & Adhérer">
 </div>
 <div class="donn">
 <div class="adhe">
@@ -73,7 +73,7 @@
         <p>Grâce à des bailleurs sociaux et propriétaires privés ! Merci !</p>
     </div>
     <div>
-        <img class="prix" src="../public/PRIX_SERVIR.jpg" alt="">
+        <img class="prix" src="../public/PRIX_SERVIR.jpg" alt="Remise du prix">
         <p class="dipl">
             Le Rotary nous a récompensé du “Prix Servir” <br>
             Nous avons aujourd’hui 84 adhérents ainsi qu’un jardin partagé

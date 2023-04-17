@@ -75,7 +75,7 @@
         </div>
     </div>
     <div>
-        <img src="../public/bail1.PNG" alt="">
+        <img src="../public/bail1.PNG" alt="choix de location">
     </div>    
 </div>
 <div class="Block3">
