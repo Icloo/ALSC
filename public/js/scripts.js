@@ -23,7 +23,7 @@ function modesombre() {
 let mode = localStorage.getItem('sombre');
 
 if (mode === "oui") {
-    document.getElementById('dark').innerHTML = "<i class='fa-regular fa-lightbulb'></i>";
+    document.getElementById('dark').innerHTML = "Mode <i class='fa-regular fa-lightbulb'></i>";
     document.getElementById('footer_sombre').style.color = "white";
     document.body.style.backgroundColor = "#212121";
     document.body.style.color = "white";

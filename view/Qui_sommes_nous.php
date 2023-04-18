@@ -121,7 +121,7 @@
 
 <div class="container text-center my-3">
     
-    <div class="row mx-auto my-auto">
+    <div class="row mx-auto my-auto qns">
         <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
             <div class="carousel-inner w-100" role="listbox">
                 <div class="carousel-item active">

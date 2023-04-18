@@ -735,8 +735,9 @@ form{
     gap: 5vw;
 }
 
-.card_2 {
-    width: 100% !important;
+.qns .card-body {
+    height: 60vh;
+    padding: 0;
 }
 
 /* ************************************************************ */

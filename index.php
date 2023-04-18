@@ -43,7 +43,7 @@
                     <a class="nav-link" href="./view/Contact.php">Contact</a>
                 </li>
                 <a href="./view/Contribution.php"><button class="btn btn-outline-success lien" type="button">Dons & Adhérence</button></a>
-                <button class="btn btn-outline-success testtest" type="button" id="dark"><i class="fa-solid fa-moon"></i> </button>
+                <button class="btn btn-outline-success testtest" type="button" id="dark">Mode <i class="fa-solid fa-moon"></i> </button>
             </ul>
         </div>
     </nav>
@@ -140,9 +140,9 @@
 
 <div class="accueil_3">
 
-    <h2>Contactez-nous pour si vous avez plus de questions</h2>
+    <h2>Si vous avez questions, n'hésitez pas !</h2>
     <div class="espaceur"></div>
-    <a href="./view/Contact.php"><button class="accueil_bouton3">Cliquez ici </button></a>
+    <a href="./view/Contact.php"><button class="accueil_bouton3">Contactez-nous</button></a>
 
 </div>
 
