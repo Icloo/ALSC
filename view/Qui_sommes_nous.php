@@ -5,21 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include('template/link_view.php'); ?>
-
-
     <title>Qui sommes-nous ?</title>
 </head>
+
+<!-- header -->
 <div class="loader-container">
     <div class="spinner"></div>
     <img src="../public/Logo.png" class="logo">
 </div>
 <?php require('template/header.php'); ?>
 
-<div class="espaceur"></div>
-
-<div class="separateur"></div>
-
-<div class="espaceur"></div>
+<!-- hero -->
+<div class="hero_espaceur"></div>
 
 <div class="hero_qsn">
     <div></div>
@@ -31,22 +28,18 @@
 
 <div class="espaceur"></div>
 
-<div class="separateur"></div>
+<!-- main -->
+<h2 class="titre2">Qui sommes-nous ?</h2>
 
-<div class="espaceur"></div>
-
-
-<h2>Qui sommes-nous ?</h2>
-
-<div class="espaceur"></div>
 <div class="espaceur"></div>
 
 <div class="qsn_1">
 
     <div class="qsn_texte">
         <h2>Notre histoire</h2>
+        <div class="espaceur_2"></div>
         <p>Installée depuis 2003 en Auvergne, et issue des métiers de la logistique, cathy a toujours été une femme de terrain. 
-Engagée sur le territoire local et dans de nombreuses associations, Cathy souhaite poursuivre son engagement auprès des ménages et des personnes isolées confrontés à des accidents de la vie ou à une période d'instabilités afin de leur permettre de trouver un équilibre, c’est ainsi qu’elle crée sa propre association en 2017 ALSC( Association Logement Solidaire Cathy) , en tant que Présidente bénévole.</p>
+        Engagée sur le territoire local et dans de nombreuses associations, Cathy souhaite poursuivre son engagement auprès des ménages et des personnes isolées confrontés à des accidents de la vie ou à une période d'instabilités afin de leur permettre de trouver un équilibre, c’est ainsi qu’elle crée sa propre association en 2017 ALSC( Association Logement Solidaire Cathy) , en tant que Présidente bénévole.</p>
     </div>
 
     <div class="qsn_1_image"></div>
@@ -180,9 +173,9 @@ Engagée sur le territoire local et dans de nombreuses associations, Cathy souha
     </div>
     
 </div>
+<div class="espaceur"></div>
 
-
-
+<!-- footer -->
 <?php require('template/footer.php'); ?>
 <?php require('template/script.php'); ?>
 </body>

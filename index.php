@@ -6,62 +6,55 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include('view/template/link_index.php'); ?>
-
-
     <title>Accueil</title>
 </head>
 
+<!-- header -->
 <header id="header">
-<a class="navbar-brand" href="#"><img class="logo" src="public/Logo.png"></a>
-<nav class="navbar navbar-expand-lg navbar-light">
- 
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarNavDropdown">
-    <ul class="navbar-nav">
-      <li class="nav-item active">
-        <a class="nav-link" href="index.php"> Accueil <span class="sr-only">(current)</span></a>
-      </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="./view/Nos_missions.php" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Nos missions
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="./view/Nos_missions.php">Nos missions</a>
-          <a class="dropdown-item" href="./view/Locataires.php">Locative</a>
-          <a class="dropdown-item" href="./view/Proprietaire.php">Propriétaire</a>
-         
+    <a class="navbar-brand" href="#"><img class="logo" src="public/Logo.png"></a>
+    <nav class="navbar navbar-expand-lg navbar-light">
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.php"> Accueil <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="./view/Nos_missions.php" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Nos missions
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="./view/Nos_missions.php">Nos missions</a>
+                        <a class="dropdown-item" href="./view/Locataires.php">Locative</a>
+                        <a class="dropdown-item" href="./view/Proprietaire.php">Propriétaire</a>
+
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./view/Partenaires.php">Partenaires</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./view/Qui_sommes_nous.php">Qui sommes-nous ?</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="./view/Contact.php">Contact</a>
+                </li>
+                <a href="./view/Contribution.php"><button class="btn btn-outline-success lien" type="button">Dons & Adhérence</button></a>
+                <button class="btn btn-outline-success testtest" type="button" id="dark"><i class="fa-solid fa-moon"></i> </button>
+            </ul>
         </div>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="./view/Partenaires.php">Partenaires</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="./view/Qui_sommes_nous.php">Qui sommes-nous ?</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="./view/Contact.php">Contact</a>
-      </li>
-      <a href="./view/Contribution.php"><button class="btn btn-outline-success lien" type="button">Dons & Adhérence</button></a>
-      <button class="btn btn-outline-success testtest" type="button" id="dark">Mode sombre <i class="fa-solid fa-moon"></i> </button>
-    </ul>
-  </div>
-</nav>
-  
-
-
-
+    </nav>
 </header>
-<!--  -->
+
 <div class="loader-container">
     <div class="spinner"></div>
     <img src="./public/Logo.png" class="logo" alt="Logo">
-  
 </div>
 
-<!-- ******************************************************** -->
-
+<!-- hero -->
 <div class="hero">
     <div></div>
     <div class="titre_hero">
@@ -69,44 +62,35 @@
             <br>nous construisons
         </h1>
     </div>
-    
-
 </div>
 
 <div class="espaceur"></div>
 
 <div class="accueil_1">
-
-
-
     <div class="accueil_1_sous_partie">
-    <i class="fa-solid fa-house-crack"></i>
-    Promouvoir l’autonomie et l’insertion par le logement afin de prévenir les exclusions sociales
+        <i class="fa-solid fa-house-crack"></i>
+        Promouvoir l’autonomie et l’insertion par le logement afin de prévenir les exclusions sociales
     </div>
 
     <div class="accueil_1_sous_partie interieur">
-    <i class="fa-solid fa-book-open"></i>
-    Contribuer à éducation à la citoyenneté, au développement du lien social et au renforcement de la cohésion territoriale.
+        <i class="fa-solid fa-book-open"></i>
+        Contribuer à éducation à la citoyenneté, au développement du lien social et au renforcement de la cohésion territoriale.
     </div>
 
     <div class="accueil_1_sous_partie interieur">
-    <i class="fa-solid fa-hand-holding-heart"></i>
-    Proposer des réponses adaptées aux difficultés des personnes qu’elle accompagne.
+        <i class="fa-solid fa-hand-holding-heart"></i>
+        Proposer des réponses adaptées aux difficultés des personnes qu’elle accompagne.
     </div>
 
     <div class="accueil_1_sous_partie interieur">
-    <i class="fa-solid fa-medal"></i>
-    Aider les personnes à accéder au logement autonome, à s’insérer dans ce logement et à s’y maintenir.
+        <i class="fa-solid fa-medal"></i>
+        Aider les personnes à accéder au logement autonome, à s’insérer dans ce logement et à s’y maintenir.
     </div>
-
-
-
 </div>
 <div class="espaceur"></div>
 
 <div class="separateur"></div>
 
-<div class="espaceur"></div>
 <div class="espaceur"></div>
 
 <div class="accueil_2">
@@ -114,10 +98,10 @@
     <div class="accueil_2_gauche">
 
         <h2>Nos actions</h2>
-        <div class="espaceur"></div>
+        <div class="espaceur_2"></div>
         <p>L’Association s’appuie sur le principe de l’intermediation locative. Notre principale mission ? Prendre en charge des logements de propriétaires privés, qui laissent à l’association la gestion de leur bien, afin de permettre à des familles d’accéder à un logement. </p>
-
-        <a href="./view/Nos_missions.php"><button class="accueil_bouton1" >En savoir + </button></a>
+        <div class="espaceur_2"></div>
+        <a href="./view/Nos_missions.php"><button class="accueil_bouton1">En savoir + </button></a>
 
     </div>
 
@@ -127,11 +111,9 @@
 </div>
 
 <div class="espaceur"></div>
-<div class="espaceur"></div>
 
 <div class="separateur"></div>
 
-<div class="espaceur"></div>
 <div class="espaceur"></div>
 
 <div class="accueil_2">
@@ -141,32 +123,29 @@
     <div class="accueil_2_gauche">
 
         <h2>Notre histoire</h2>
-        <div class="espaceur"></div>
+        <div class="espaceur_2"></div>
         <p>Installée depuis 2003 en Auvergne, et issue des métiers de la logistique, cathy a toujours été une femme de terrain. Engagée sur le territoire local...</p>
-
-        <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2" >En savoir + </button></a>
+        <div class="espaceur_2"></div>
+        <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2">En savoir + </button></a>
 
     </div>
 
 </div>
 
 <div class="espaceur"></div>
-<div class="espaceur"></div>
 
 <div class="separateur"></div>
 
-<div class="espaceur"></div>
 <div class="espaceur"></div>
 
 <div class="accueil_3">
 
     <h2>Contactez-nous pour si vous avez plus de questions</h2>
     <div class="espaceur"></div>
-    <a href="./view/Contact.php"><button class="accueil_bouton3" >Cliquez ici </button></a>
+    <a href="./view/Contact.php"><button class="accueil_bouton3">Cliquez ici </button></a>
 
 </div>
 
-<div class="espaceur"></div>
 <div class="espaceur"></div>
 
 <div class="separateur"></div>
@@ -177,63 +156,62 @@
 
     <h2>Nos Partenaires</h2>
 
-        
-<div class="container text-center my-3">
+    <div class="espaceur"></div>
 
-    <div class="row mx-auto my-auto">
-        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
-            <div class="carousel-inner w-100" role="listbox">
-                <div class="carousel-item active">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="./public/logo_puy_de_dome_transparent.png">
+    <div class="container text-center my-0">
+
+        <div class="row mx-auto my-auto index">
+            <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
+                <div class="carousel-inner w-100" role="listbox">
+                    <div class="carousel-item active">
+                        <div class="col-md-4">
+                            <div class="card card-body">
+                                <img class="img-fluid" src="./public/logo_puy_de_dome_2.svg.png">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="./public/logo_cpam_transparent.png">
+                    <div class="carousel-item">
+                        <div class="col-md-4">
+                            <div class="card card-body">
+                                <img class="img-fluid" src="./public/logo_cpam_transparent.png">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="./public/rotary-issoire_transparent.png">
+                    <div class="carousel-item">
+                        <div class="col-md-4">
+                            <div class="card card-body index">
+                                <img class="img-fluid" src="./public/cdnlogo.com_rotary.svg">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="./public/Ville_Issoire_Q_300dpi_transparent.png">
+                    <div class="carousel-item">
+                        <div class="col-md-4">
+                            <div class="card card-body">
+                                <img class="img-fluid" src="./public/Ville_Issoire_Q_300dpi_transparent.png">
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="./public/logo_ml.png">
+                    <div class="carousel-item">
+                        <div class="col-md-4">
+                            <div class="card card-body">
+                                <img class="img-fluid" src="./public/logo_ml.png">
+                            </div>
                         </div>
                     </div>
+
                 </div>
-              
+                <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                    <span class="sr-only">Précédent</span>
+                </a>
+                <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                    <span class="sr-only">Suivant</span>
+                </a>
             </div>
-            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
-                <span class="sr-only">Précédent</span>
-            </a>
-            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
-                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
-                <span class="sr-only">Suivant</span>
-            </a>
         </div>
+
     </div>
-
-</div>
-
-
 
 </div>
 
@@ -266,15 +244,11 @@
             <h3>Madi Satourdine</h3>
         </div>
 
-
     </div>
-
-
 
 </div>
 
 
-<div class="espaceur"></div>
 <div class="espaceur"></div>
 
 <!-- ******************************************************** -->
@@ -317,19 +291,22 @@
     <div class="footer_gauche">
 
         <div class="logo_footer">
-            <img src="./public/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer"  alt="Logo Ville d'Issoire">
-            <img src="./public/logo_puy_de_dome_transparent.png" class="taille_logo_footer"  alt="Logo Puy-De-Dome">
+            <img src="./public/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer" alt="Logo Ville d'Issoire">
+            <img src="./public/logo_puy_de_dome_2.svg.png" class="taille_logo_footer" alt="Logo Puy-De-Dome">
         </div>
 
         <div class="logo_footer">
-            <img src="./public/rotary-issoire_transparent.png" class="taille_logo_footer"  alt="Logo Rotary issoire">
-            <img src="./public/logo_cpam_transparent.png" class="taille_logo_footer"  alt="Logo CPAM">
+            <img src="./public/cdnlogo.com_rotary.svg" class="taille_logo_footer" alt="Logo Rotary issoire">
+            <img src="./public/logo_cpam_transparent.png" class="taille_logo_footer" alt="Logo CPAM">
+        </div>
+        <div>
+            <img src="./public/logo_ml.png" class="taille_logo_footer" alt="">
         </div>
 
         <div class="espaceur"></div>
 
         <div class="footer_bouton">Nous soutenir</div>
-        
+
     </div>
 
 

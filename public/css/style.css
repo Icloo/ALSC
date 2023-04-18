@@ -40,7 +40,7 @@ nav .testtest {
     background-color: #2C3333 !important;
     border: 1px solid transparent !important;
 }
-/* ************************************************************ */
+/* --footer */
 
 footer {
     display: flex !important;
@@ -50,7 +50,7 @@ footer {
     padding-top: 3vh !important;
     padding-bottom: 3vh !important;
     background-color: #f5f5f5 ;
-    border-top: 0,031rem solid black !important;
+    border-top: 0,031rem solid #000 !important;
     box-shadow: 2px 2px 2px 2px;
 
 }
@@ -103,7 +103,23 @@ footer h3 {
 
 /* ********************************************************************** */
 
-/* ********************************************************* */
+.espaceur {
+    height: 7vh;
+}
+
+.espaceur_2 {
+    height: 2vh;
+}
+
+.hero_espaceur {
+    height: 3vh;
+}
+
+.titre_espaceur {
+    height: 4vh;
+}
+
+/* -- accueil -- */
 
 .hero {
     height: 66vh;
@@ -147,16 +163,11 @@ footer h3 {
     border-left: 1px solid black;
 }
 
-.espaceur {
-    height: 7vh;
-}
-
 .separateur {
-    width: 90%;
+    width: 85%;
     margin-left: auto;
     margin-right: auto;
-    border-top: 0,001rem solid black !important;
-    box-shadow: 1px 1px 1px 1px;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px;
 }
 
 .accueil_2 {
@@ -165,6 +176,16 @@ footer h3 {
 
 .accueil_2_gauche {
     width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.accueil_3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .accueil_2_gauche h2 , .accueil_2_gauche p , .accueil_2_gauche .accueil_bouton {
@@ -179,24 +200,16 @@ footer h3 {
     cursor: pointer;
     width: fit-content;
     border-radius: 15px;
+    color: #fff;
+    border: none;
 }
 
-.accueil_bouton1{
-    margin-left: 40%;
-}
-
-.accueil_bouton2{
-    margin-left: 40%;
-}
-
-.accueil_bouton3{
-    margin-left: 40%;
-}
 .accueil_2_droite {
     background-image: url('../20180831_203348.jpg');
     background-size: cover;
     background-position: center;
     width: 40%;
+    height: 50vh;
     margin-left: auto;
     margin-right: auto;
     border-radius: 15px;
@@ -207,6 +220,7 @@ footer h3 {
     background-size: cover;
     background-position: center;
     width: 40%;
+    height: 50vh;
     margin-left: auto;
     margin-right: auto;
     border-radius: 15px;
@@ -233,6 +247,7 @@ h2 {
     padding: 5vh 2vw 5vh 2vw;
     background-color: #D9D9D9;
     text-align: justify;
+    border-radius: 20px;
 }
 
 .logo_partenaire {
@@ -253,11 +268,15 @@ h2 {
   background-image: none;
 }
 
-/* ************************************************************* */
+.index .card-body  {
+    height: 22vh;
+}
+
+/* -- nos missions */
 
 .hero_nos_missions {
     background-image: url('../20220627_120445.jpg');
-    height: 50vh;
+    height: 60vh;
     background-position: center;
     background-size: cover;
     display: flex;
@@ -290,7 +309,7 @@ h2 {
 }
 
 .nos_missions_2_droite {
-    background-image: url('../maison_1.png');
+    background-image: url('../maison_2.png');
     background-size: cover;
     background-position: center;
     width: 33%;
@@ -317,13 +336,14 @@ h2 {
     background-image: url('../logo_nos_missions.png');
     background-size: contain;
     background-position: center;
-    width: 33%;
+    background-repeat: no-repeat;
+    width: 22%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 15px;
 }
 
-.nos_missions_3_gauche h2 {
+.nos_missions_h2 {
     text-align: left;
 }
 
@@ -416,19 +436,17 @@ p {
     font-size: 18px;
 }
 
-/* ************************************************************* */
+/* -- propriétaires et locataires -- */
 
 .hero_proprietaire {
     background-image: url('../hero_proprietaire.png');
-    height: 50vh;
+    height: 60vh;
     background-position: center;
     background-size: cover;
     display: flex;
     justify-content: flex-end;
     align-items: center;
 }
-
-/* propriétaire */
 
 .para{
     padding-left: 3rem;
@@ -445,7 +463,6 @@ p {
     text-align: left;
 }
 .Block3{
-    margin-top: 5%;
     text-align: center;
 }
 
@@ -458,11 +475,20 @@ p {
     text-align: left;
 }
 
+.propriétaire_size_image {
+    width: 40vw;
+    border-radius: 20px;
+}
+.locataire_size_image {
+    width: 45vw;
+    border-radius: 20px;
+}
+
 /* Contact */
 
 .hero_contact{
     background-image: url('../hero.contact.png');
-    height: 50vh;
+    height: 60vh;
     background-position: center;
     background-size: cover;
     display: flex;
@@ -485,6 +511,8 @@ form{
 
 .map{
     margin: 45px ;
+    margin-top: 0px;
+    border-radius: 10px;
 }
 .local{
     text-align: center;
@@ -493,6 +521,7 @@ form{
 .inp{
     width: 500px;
     height: 45px;
+    border-radius: 5px;
 
 }
 .btn2{
@@ -512,12 +541,12 @@ form{
     justify-content: space-around;
 }
 
-/* ************************************************************* */
+/* -- partenaires -- */
 
 
 .hero_partenaires {
     background-image: url('../hero_partenaire.png');
-    height: 50vh;
+    height: 60vh;
     background-position: center;
     background-size: cover;
     display: flex;
@@ -533,6 +562,13 @@ form{
 .partenaires_photo_texte {
     display: flex;
     justify-content: space-between;
+}
+
+.partenaires_p {
+    font-size: 24px;
+    color: #015FA7;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .partenaires_2_texte {
@@ -552,7 +588,7 @@ form{
 }
 
 .partenaires_3_photo {
-    background-image: url('../rotary-issoire_transparent.png');
+    background-image: url('../cdnlogo.com_rotary.svg');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -571,12 +607,18 @@ form{
     margin-right: auto;
 }
 
+.partenaires_photo_size {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
 .partenaires_5_photo {
-    background-image: url('../logo_puy_de_dome_transparent.png');
+    background-image: url('../logo_puy_de_dome_2.svg.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
-    width: 40%;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -612,12 +654,12 @@ form{
 }
 
 
-/* ************************************************************ */
+/* -- qui somme-nous? -- */
 
 
 .hero_qsn {
     background-image: url('../hero.contact.png');
-    height: 50vh;
+    height: 60vh;
     background-position: center;
     background-size: cover;
     display: flex;
@@ -668,7 +710,7 @@ form{
 }
 
 .qsn_3_image {
-    background-image: url('../maison_1.png');
+    background-image: url('../maison_2.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -691,6 +733,10 @@ form{
     display: flex;
     justify-content: space-between;
     gap: 5vw;
+}
+
+.card_2 {
+    width: 100% !important;
 }
 
 /* ************************************************************ */
@@ -739,7 +785,7 @@ form{
 
 .hero_contributions {
     background-image: url('../contribution.png');
-    height: 50vh;
+    height: 60vh;
     background-position: center;
     background-size: cover;
     display: flex;
@@ -750,13 +796,13 @@ form{
 .cont{
     display: flex;
     justify-content: space-around;
-    margin: 4rem 2rem 0 2rem;
+    margin: 0rem 2rem 0 2rem;
 }
 
 .adhe{
     /* display: flex;
     flex-direction: column; */
-    margin: 4rem 2rem 1rem 4rem ;
+    margin: 4rem 2rem 0rem 4rem ;
 }
 
 .adhe2{

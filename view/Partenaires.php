@@ -5,22 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include('template/link_view.php'); ?>
-
-
     <title>Partenaires</title>
 </head>
+
+<!-- header -->
 <div class="loader-container">
     <div class="spinner"></div>
     <img src="../public/Logo.png" class="logo">
 </div>
 <?php require('template/header.php'); ?>
 
-
-<div class="espaceur"></div>
-
-<div class="separateur"></div>
-
-<div class="espaceur"></div>
+<!-- hero -->
+<div class="hero_espaceur"></div>
 
 <div class="hero_partenaires">
     <div></div>
@@ -32,24 +28,21 @@
 
 <div class="espaceur"></div>
 
-<div class="separateur"></div>
+<!-- main -->
+<h2 class="titre2">Le réseau de ALSC</h2>
 
-<div class="espaceur"></div>
-
-<h2>Le réseau de ALSC</h2>
-
-<div class="espaceur"></div>
+<div class="titre_espaceur"></div>
 
 <div class="partenaires_1">
     <p>Grâce à c’est nombreux partenaires, ALCS est encore là aujourd’hui et nous tenons à les remercier car, c’est grâce à eux que nous pouvons continuer à aider les personnes en difficultés.
         <br>
-    Bien sûr ces soutients sont tous importants pour nous car il nous aide, que ce soit par des donations, des legs, des adhésions, des parainages ou bien d’autres chôses.
+    Bien sûr ces soutiens sont tous importants pour nous car il nous aide, que ce soit par des donations, des legs, des adhésions, des parrainages ou bien d’autres choses.
     </p>
     <div class="espaceur"></div>
-    <span>Nous tenons à remercier tout particulièrement </span>
+    <p class="partenaires_p">Nous tenons à remercier tout particulièrement </p>
 </div>
 
-<div class="espaceur"></div>
+<div class="espaceur_2"></div>
 
 <div class="partenaires_2">
 
@@ -72,7 +65,7 @@
 
 <div class="partenaires_3">
 
-    <h2>L’association ROTARY</h2>
+    <h2>L’association ROTARY club d'issoire</h2>
 
     <div class="espaceur"></div>
 
@@ -126,8 +119,9 @@
 
     <div class="partenaires_photo_texte">
 
-  
+    <div class="partenaires_photo_size">
         <div class="partenaires_5_photo"></div>
+    </div>
 
         <div class="partenaires_2_texte">
             <p>300 alliés qui partagent leurs ressources et font communauté pour apprendre les uns des autres.</p> <p> L’association pour la promotion de la Fabrique représente à travers son collectif une force pour le Puy-de-Dôme en lui permettant d’expérimenter, de défricher avec de nouveaux partenaires des méthodes nouvelles, de faire preuve de plus d’agilité et de renforcer sa capacité d’innovation. </p>

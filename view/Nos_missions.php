@@ -5,47 +5,37 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include('template/link_view.php'); ?>
-
-
     <title>Nos missions</title>
 </head>
+
+<!-- header -->
 <div class="loader-container">
     <div class="spinner"></div>
     <img src="../public/Logo.png" class="logo">
 </div>
 <?php require('template/header.php'); ?>
 
-<div class="espaceur"></div>
-
-<div class="separateur"></div>
-
-<div class="espaceur"></div>
+<!-- hero -->
+<div class="hero_espaceur"></div>
 
 <div class="hero_nos_missions">
     <div></div>
     <div class="titre_hero_nos_missions">
         <h1>Nos missions</h1>
     </div> 
-
 </div>
 
 <div class="espaceur"></div>
 
-<div class="separateur"></div>
-
-<div class="espaceur"></div>
-
+<!-- main -->
 <div class="nos_missions_1">
-    <h2>Association ALSC</h2>
+    <h2 class="titre2">Association ALSC</h2>
 
-    <div class="espaceur"></div>
-
+    <div class="titre_espaceur"></div>
     
-    <p>  L’Association Logement Solidaire Cathy a pour mission principale l’insertion par le logement </p>
-    <p>   Implantée depuis janvier 2017 sur le secteur d’Issoire, ALSC se mobilise sur le logement et l’accompagnement des ménages et des personnes isolées, confrontés à un accident de la vie ou à une période d’instabilité afin de leur permettre de trouver un équilibre. </p>
+    <p>  L’Association Logement Solidaire Cathy a pour mission principale l’insertion par le logement. </p>
+    <p>  Implantée depuis janvier 2017 sur le secteur d’Issoire, ALSC se mobilise sur le logement et l’accompagnement des ménages et des personnes isolées, confrontés à un accident de la vie ou à une période d’instabilité afin de leur permettre de trouver un équilibre. </p>
     <p>  Nous prenons en charge les logements de propriétaires privés solidaires afin que l’association s’occupe de la gestion de leur bien et permettre à des familles d’acceder à une habitation. </p>
-    
-
 </div>
 
 <div class="espaceur"></div>
@@ -56,15 +46,15 @@
 
         <h2>Concrètement comment ça fonctionne ? </h2>
 
-        <div class="espaceur"></div>
+        <div class="espaceur_2"></div>
 
         <p> 
-            L’Association s’appuie sur le principe de l’intermediation locative.
+            L’Association s’appuie sur le principe de l’intermédiation locative.
         <br>
             Notre principale mission ? Prendre en charge des logements de propriétaires privés, qui laissent à l’association la gestion de leur bien, afin de permettre à des familles d’accéder à un logement.
         </p>
         <p>
-            Une personne seule ou une famille, peut-être orientée vers l’association pour faire une demande de logement. A partir de ce moment, un logement peut être attribué.  
+            Une personne seule ou une famille, peut-être orientée vers l’association pour faire une demande de logement. À partir de ce moment, un logement peut être attribué.  
         </p>
         <p>
         Des dons de vêtements, de vaisselles et de jouets sont essentiels à la vie quotidienne des personnes aidées. L’association fonctionne uniquement, par le biais de dons, d’adhésions et de subventions. 
@@ -84,9 +74,9 @@
 
     <div class="nos_missions_3_droite">
 
-        <h2>Avec qui nous travaillons ?  </h2>
+        <h2 class="nos_missions_h2">Avec qui nous travaillons ?</h2>
 
-            <div class="espaceur"></div>
+            <div class="espaceur_2"></div>
 
             <p> 
                 L’Association Logement Solidaire Cathy s’appuie sur un réseau partenarial conséquent et indispensable, pour le suivi des personnes. 
@@ -109,9 +99,9 @@
 
     <div class="nos_missions_4_gauche">
 
-        <h2>Nos défis de tous les jours</h2>
+        <h2 class="nos_missions_h2">Nos défis de tous les jours</h2>
 
-        <div class="espaceur"></div>
+        <div class="espaceur_2"></div>
 
         <p><span>Promouvoir</span> l’autonomie et l’insertion par le logement afin de prévenir les exclusions sociales.</p>
         <p><span>Accompagner</span> de tout coeur les habitants pour la recherche de logement jusqu’à leurs mobiliers.
@@ -138,19 +128,19 @@
     <div class="nos_missions_5_photos">
 
     
-        <div class="nos_missions_5_photos_gauche">
-        <a href="Locataires.php">
-            <h3> Á LA RECHERCHE D’UN LOGEMENT ?</h3>
-            </a>
+    <a href="Locataires.php" class="nos_missions_5_photos_gauche">
+        <div>
+            <h3> À LA RECHERCHE D’UN LOGEMENT ?</h3>
         </div>
+    </a>
 
 
     
-        <div class="nos_missions_5_photos_droite">
-        <a href="Proprietaire.php">
+    <a href="Proprietaire.php" class="nos_missions_5_photos_droite">
+        <div>
             <h3>VOUS ÊTES PROPRIETAIRE ?</h3>
-            </a>
         </div>
+    </a>
     
 
     </div>
@@ -161,7 +151,7 @@
 
 <div class="espaceur"></div>
 
-
+<!-- footer -->
 <?php require('template/footer.php'); ?>
 <?php require('template/script.php'); ?>
 </body>

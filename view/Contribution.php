@@ -5,22 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include('template/link_view.php'); ?>
-
-
     <title>Contributions</title>
 </head>
+
+<!-- header -->
 <div class="loader-container">
     <div class="spinner"></div>
     <img src="../public/Logo.png" class="logo">
 </div>
 <?php require('template/header.php'); ?>
 
-
-<div class="espaceur"></div>
-
-<div class="separateur"></div>
-
-<div class="espaceur"></div>
+<!-- hero -->
+<div class="hero_espaceur"></div>
 
 <div class="hero_contributions">
     <div></div>
@@ -32,11 +28,9 @@
 
 <div class="espaceur"></div>
 
-<div class="separateur"></div>
-
-<div class="espaceur"></div>
-
+<!-- main -->
 <h2 class="titre2">Contributions</h2>
+<div class="titre_espaceur"></div>
 <div class="cont">
     <p>
         L’association fonctionne uniquement par le biais de dons d’adhésions et de subventions. <br>
@@ -49,17 +43,19 @@
 <div class="donn">
 <div class="adhe">
     <h2 class="adhe2" >Devenez adhérant</h2> 
+    <div class="espaceur_2"></div>
     <p>
-        Si vous avez du temps libre et du <br> coeur, notre équipe à besoin de <br> vous ! <br>
+        Si vous avez du temps libre et du <br> cœur, notre équipe a besoin de <br> vous ! <br>
         <a href="#">Cliquez-ici</a> pour télécharger le <br> bulletin d’adhésion. 
     </p>
     <div class="espaceur"></div>   
     <div>
         <h2 class="donn2">Soyer donnateur</h2>
+        <div class="espaceur_2"></div>
         <p>
             Par le biais de vos dons financier ou mobilier, <br> 
             nous garantissons un usage pratique qui permettra <br> à  
-            nos bénéficiare de se sentir mieux et d’améliorer leur cadre de vie. 
+            nos bénéficiaires de se sentir mieux et d’améliorer leur cadre de vie. 
         </p>
     </div>
 </div>
@@ -67,6 +63,7 @@
     <div>
     <div class="espaceur"></div> 
         <h2 class="loge3">L'action par le logement</h2>
+        <div class="espaceur_2"></div>
         <li>5 propriétaires solidaires </li>
         <li>9 Logements</li>
         <li>32 famille logées</li>
@@ -81,9 +78,9 @@
     </div>
 </div>
 </div>
+<div class="espaceur"></div>
 
-
-
+<!-- footer -->
 <?php require('template/footer.php'); ?>
 <?php require('template/script.php'); ?>
 </html>

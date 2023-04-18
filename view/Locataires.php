@@ -6,21 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../public/css/style.css" rel="stylesheet" />
     <?php include('template/link_view.php'); ?>
-
-
     <title>Nos missions</title>
 </head>
+
+<!-- header -->
 <div class="loader-container">
     <div class="spinner"></div>
     <img src="../public/Logo.png" class="logo">
 </div>
 <?php require('template/header.php'); ?>
 
-<div class="espaceur"></div>
-
-<div class="separateur"></div>
-
-<div class="espaceur"></div>
+<!-- hero -->
+<div class="hero_espaceur"></div>
 
 <div class="hero_proprietaire">
     <div></div>
@@ -32,15 +29,14 @@
 
 <div class="espaceur"></div>
 
-<div class="separateur"></div>
-
-<div class="espaceur"></div>
-
+<!-- main -->
 <h2 class="titre2"> Locataire et bénéficiaire </h2>
+
+<div class="titre_espaceur"></div>
 
 <p class="para">
     Prônant l’insertion de l’individu par le logement, ALSC de Cathy Grasso propose de loger des personnes en difficulté sur Issoire et ses proches alentours.
-    Car le logement n’attends pas, nous sommes engagé à vous fournir le meilleur service dans les plus brefs délais.   
+    Car le logement n’attend pas, nous sommes engagés à vous fournir le meilleur service dans les plus brefs délais.   
 </p>  
 
 <div class="espaceur"></div>
@@ -49,61 +45,50 @@
     <div>
         <div>
             <h2 class="titre">Comment obtenir un logement ?</h2>
+            <div class="espaceur_2"></div>
             <p>
-                Après l’étude de votre dossier et en fonction des logements disponibles gérés par l’association,Nous signons une convention d’occupation temporaire pour une période déterminée.
+                Après l’étude de votre dossier et en fonction des logements disponibles gérés par l’association. Nous signons une convention d’occupation temporaire pour une période déterminée.
                 La finalité recherchée est de permettre à la personne d’être insérée socialement. 
             </p>
         </div>
         <div class="espaceur"></div>
         <div>
             <h2 class="titre">Un tremplin à l’insertion</h2>
+            <div class="espaceur_2"></div>
             <p>
                 ALSC se mobilise sur le logement et l’accompagnement des ménages et des personnes isolées confrontés à un accident de la vie ou à une période d’instabilité afin de leur permettre de trouver un équilibre.
-                La précarité des situations et la faiblesse des ressources sont des obstacles à l’accès au logement 
+                La précarité des situations et la faiblesse des ressources sont des obstacles à l’accès au logement. 
             </p>
         </div>
         <div class="espaceur"></div>
         <div>
             <h2 class="titre">Nos engagements</h2>
+            <div class="espaceur_2"></div>
             <p>
                 Cette période est souvent gage de réinsertion sociale. Les bénévoles se mobilisent pour l’installation de la famille ou de la personne : apport de meubles ou de la vaisselle le cas échéant, puis les accompagnent dans leurs démarches administratives, sociales et professionnelles.
-                ALSC permet aussi de de loger ces personnes chez d’autres propriétaires privés ou des bailleurs sociaux, grâce au réseau partenarial qu’elle a su créer 
+                ALSC permet aussi de de loger ces personnes chez d’autres propriétaires privés ou des bailleurs sociaux, grâce au réseau partenarial qu’elle a su créer. 
             </p>
         </div>
     </div>
     <div>
-        <img src="../public/Locataire.png" alt="">
+        <img src="../public/Locataire.png" alt="" class="locataire_size_image">
     </div>    
 </div>
 <div class="Block3">
+<div class="espaceur"></div>
 <h2>ALSC vous accompagne</h2>
+<div class="espaceur_2"></div>
 <div class="block">
 <p>
-    Le travail des bénévoles, au delà de l’accueil et de la prise en charge de la demande en premier lieu, permet d’accompagner le quotidien, 
-    d’être une écoute voir un lien avec le monde social.Ils peuvent vous accompagner dans les petits travaux du domicile ainsi que le transport de votre mobilier. 
+    Le travail des bénévoles, au-delà de l’accueil et de la prise en charge de la demande en premier lieu, permet d’accompagner le quotidien, 
+    d’être une écoute voire un lien avec le monde social. Ils peuvent vous accompagner dans les petits travaux du domicile ainsi que le transport de votre mobilier. 
 </p>
 </div>
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div class="espaceur"></div>
 
-
+<!-- footer -->
 <?php require('template/footer.php'); ?>
 <?php require('template/script.php'); ?>
 </body>
