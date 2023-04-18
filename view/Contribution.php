@@ -50,12 +50,13 @@
     </p>
     <div class="espaceur"></div>   
     <div>
-        <h2 class="donn2">Soyer donnateur</h2>
+        <h2 class="donn2">Devenez donateur</h2>
         <div class="espaceur_2"></div>
         <p>
             Par le biais de vos dons financier ou mobilier, <br> 
             nous garantissons un usage pratique qui permettra <br> à  
-            nos bénéficiaires de se sentir mieux et d’améliorer leur cadre de vie. 
+            nos bénéficiaires de se sentir mieux et d’améliorer leur cadre de vie. <br>
+            <a href="../public/img/DONATEURS.pdf" download>Cliquez-ici</a> pour télécharger le <br> bulletin de donateur.
         </p>
     </div>
 </div>
