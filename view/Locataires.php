@@ -35,7 +35,7 @@
 <div class="titre_espaceur"></div>
 
 <p class="para">
-    Prônant l’insertion de l’individu par le logement, ALSC de Cathy Grasso propose de loger des personnes en difficulté sur Issoire et ses proches alentours.
+    Prônant l’insertion de l’individu par le logement, ALSC de Cathy propose de loger des personnes en difficulté sur Issoire et ses proches alentours.
     Car le logement n’attend pas, nous sommes engagés à vous fournir le meilleur service dans les plus brefs délais.   
 </p>  
 
