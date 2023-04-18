@@ -170,7 +170,7 @@
 <div class="espaceur"></div>
 
 <div class="partenaires_5">
-<img src="../public/img/partenaires_autre.png">
+<img src="../public/img/partenaires_autre.png" alt="Nos autres partenaires">
 
 <div class="espaceur"></div>
 
