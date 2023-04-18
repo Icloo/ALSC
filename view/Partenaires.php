@@ -56,12 +56,7 @@
 
         <div class="partenaires_2_texte">
             <p>Avec près de 300 associations, Issoire offre à chacun l’opportunité de pratiquer des activités culturelles et sportives, ou de s’engager au service des autres. La Charte de la vie associative traduit le partenariat important entre la municipalité et les associations : de nombreux moyens sont mis à disposition pour la vie associative.</p>
-<<<<<<< HEAD
-            <div class="espaceur_2"></div>
-            <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2">En savoir + </button></a>
-=======
             <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2 from-right">En savoir + </button></a>
->>>>>>> 87993a433cc670410e230f50d97dbcb15f071237
         </div>
         <div class="partenaires_2_photo"></div>
 
@@ -88,12 +83,7 @@
             <p>
                 Le Rotary tire sa force du dynamisme et de l’engagement de ses 1,4 million de membres dans plus de 46 000 clubs dans le monde.</p><p> Ensemble, nous changeons des vies dans notre ville et à travers le monde.</p>
             </p>
-<<<<<<< HEAD
-            <div class="espaceur_2"></div>
-            <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2">En savoir + </button></a>
-=======
             <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2 from-right">En savoir + </button></a>
->>>>>>> 87993a433cc670410e230f50d97dbcb15f071237
         </div>
         
 
@@ -115,12 +105,7 @@
 
         <div class="partenaires_2_texte">
             <p> La vocation de l’espace dynamique consiste à accueillir des jeunes en grande difficulté et à répondre par un traitement individualisé à l’ensemble des difficultés qu’ils rencontrent. Ainsi, cette approche globale vise l’acquisition par les jeunes, de repères, de la restauration de leur l’image et de leur accession à des apprentissages professionnels.<p> L’espace propose un soutien sur le long terme permettant ainsi d’offrir à chaque jeune d’élaborer et de structurer son projet personnel. </p></p>
-<<<<<<< HEAD
-            <div class="espaceur_2"></div>
-            <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2">En savoir + </button></a>
-=======
             <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2 from-right">En savoir + </button></a>
->>>>>>> 87993a433cc670410e230f50d97dbcb15f071237
         </div>
         <div class="partenaires_6_photo"></div>
 
@@ -148,12 +133,7 @@
 
         <div class="partenaires_2_texte">
             <p>300 alliés qui partagent leurs ressources et font communauté pour apprendre les uns des autres.</p> <p> L’association pour la promotion de la Fabrique représente à travers son collectif une force pour le Puy-de-Dôme en lui permettant d’expérimenter, de défricher avec de nouveaux partenaires des méthodes nouvelles, de faire preuve de plus d’agilité et de renforcer sa capacité d’innovation. </p>
-<<<<<<< HEAD
-            <div class="espaceur_2"></div>
-            <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2">En savoir + </button></a>
-=======
             <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2 from-right">En savoir + </button></a>
->>>>>>> 87993a433cc670410e230f50d97dbcb15f071237
         </div>
         
 
@@ -174,12 +154,7 @@
 
         <div class="partenaires_2_texte">
             <p>Toute personne qui travaille ou réside en France de manière stable et régulière a droit à la prise en charge de ses frais de santé à titre personnel et de manière continue tout au long de sa vie : tel est le principe de la protection universelle maladie.</p>
-<<<<<<< HEAD
-            <div class="espaceur_2"></div>
-            <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2">En savoir + </button></a>
-=======
             <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2 from-right">En savoir + </button></a>
->>>>>>> 87993a433cc670410e230f50d97dbcb15f071237
         </div>
         <div class="partenaires_4_photo"></div>
 
