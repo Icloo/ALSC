@@ -40,12 +40,14 @@
 <div class="espaceur_2"></div>
 
 <p class="para_contact">
-Dans un esprit de solidarité, nous recherchons des propriétaires dit solidaires, 
-c’est-à-dire dont le souhait est d’aider des personnes en situation précaire à trouver un logement.
-C’est que des avantages pour  vous, car nous vous donnons la garantie d’un loyer car nous sommes vos locataires,
-nous vous garantissons un logement remis en état et en plus vous ne déclarez seulement que 15% des revenus fonciers.
+    Dans un esprit de solidarité, nous recherchons des propriétaires dit solidaires, 
+    c’est-à-dire dont le souhait est d’aider des personnes en situation précaire à trouver un logement.
+    C’est que des avantages pour  vous, car nous vous donnons la garantie d’un loyer car nous sommes vos locataires,
+    nous vous garantissons un logement remis en état et en plus vous ne déclarez seulement que 15% des revenus fonciers.
 </p>
 
+<div class="espaceur"></div>
+<div class="espaceur"></div>
 
 <div class="fmap">
     <div>
@@ -99,6 +101,7 @@ nous vous garantissons un logement remis en état et en plus vous ne déclarez s
         </p>
     </div>
 </div>
+<div class="espaceur"></div>
 
 <?php require('template/footer.php'); ?>
 <?php require('template/script.php'); ?>

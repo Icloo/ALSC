@@ -39,6 +39,7 @@
 </div>
 
 <div class="espaceur"></div>
+<div class="espaceur_2"></div>
 
 <div class="nos_missions_2">
 
@@ -67,6 +68,7 @@
 </div>
 
 <div class="espaceur"></div>
+<div class="espaceur_2"></div>
 
 <div class="nos_missions_3">
 
@@ -94,6 +96,8 @@
 </div>
 
 <div class="espaceur"></div>
+<div class="espaceur_2"></div>
+<div class="espaceur_2"></div>
 
 <div class="nos_missions_4">
 
@@ -118,12 +122,14 @@
 </div>
 
 <div class="espaceur"></div>
+<div class="espaceur_2"></div>
 
 <div class="nos_missions_5">
 
     <h2>Pour en savoir plus</h2>
 
-    <div class="espaceur"></div>
+    <div class="espaceur_2"></div>
+    <div class="espaceur_2"></div>
 
     <div class="nos_missions_5_photos">
 
@@ -149,6 +155,7 @@
 
 </div>
 
+<div class="espaceur"></div>
 <div class="espaceur"></div>
 
 <!-- footer -->

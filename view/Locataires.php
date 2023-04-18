@@ -30,7 +30,7 @@
 <div class="espaceur"></div>
 
 <!-- main -->
-<h2 class="titre2"> Locataire et bénéficiaire </h2>
+<h2 class="titre2"> Locataires et bénéficiaires </h2>
 
 <div class="titre_espaceur"></div>
 
@@ -86,6 +86,7 @@
 </div>
 </div>
 
+<div class="espaceur"></div>
 <div class="espaceur"></div>
 
 <!-- footer -->

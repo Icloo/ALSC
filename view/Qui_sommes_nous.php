@@ -174,6 +174,7 @@
     
 </div>
 <div class="espaceur"></div>
+<div class="espaceur"></div>
 
 <!-- footer -->
 <?php require('template/footer.php'); ?>
