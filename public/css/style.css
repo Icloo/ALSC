@@ -600,7 +600,7 @@ form{
 .partenaires_4_photo {
     background-image: url('../img/logo_cpam_transparent.png');
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     width: 40%;
     margin-left: auto;

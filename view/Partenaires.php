@@ -42,6 +42,7 @@
     <p class="partenaires_p">Nous tenons à remercier tout particulièrement </p>
 </div>
 
+<div class="espaceur"></div>
 <div class="espaceur_2"></div>
 
 <div class="partenaires_2">
@@ -63,7 +64,8 @@
 </div>
 
 <div class="espaceur"></div>
-<div class="hero_espaceur"></div>
+<div class="espaceur"></div>
+
 
 <div class="partenaires_3">
 
@@ -88,7 +90,8 @@
 </div>
 
 <div class="espaceur"></div>
-<div class="hero_espaceur"></div>
+<div class="espaceur"></div>
+
 
 <div class="partenaires_4">
 
@@ -109,7 +112,7 @@
 
 
 <div class="espaceur"></div>
-<div class="hero_espaceur"></div>
+<div class="espaceur"></div>
 
 <h2>Le département du Puy-de-Dôme</h2>
 <div class="espaceur"></div>
@@ -135,7 +138,7 @@
 </div>
 
 <div class="espaceur"></div>
-<div class="hero_espaceur"></div>
+<div class="espaceur"></div>
 
 <div class="partenaires_4">
 
