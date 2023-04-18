@@ -17,8 +17,8 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item" href="./Nos_missions.php">Nos missions</a>
-          <a class="dropdown-item" href="./Locataires.php">Locative</a>
           <a class="dropdown-item" href="./Proprietaire.php">Propriétaire</a>
+          <a class="dropdown-item" href="./Locataires.php">Locataire</a>
          
         </div>
       </li>
