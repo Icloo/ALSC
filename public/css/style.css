@@ -24,12 +24,13 @@ nav a {
 
 nav .lien {
     background-color: #6EBB13;
-    color: #015FA7;
+    color: #fff;
 }
 
 
 #dark {
     margin-left: 1vw;
+    color: #fff;
 }
 
 .fa-solid .fa-moon {
