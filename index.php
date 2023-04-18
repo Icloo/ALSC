@@ -28,8 +28,8 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="./view/Nos_missions.php">Nos missions</a>
-                        <a class="dropdown-item" href="./view/Locataires.php">Locative</a>
                         <a class="dropdown-item" href="./view/Proprietaire.php">Propriétaire</a>
+                        <a class="dropdown-item" href="./view/Locataires.php">Locataires</a>
 
                     </div>
                 </li>
