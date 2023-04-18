@@ -101,7 +101,7 @@
         <div class="espaceur_2"></div>
         <p>L’Association s’appuie sur le principe de l’intermediation locative. Notre principale mission ? Prendre en charge des logements de propriétaires privés, qui laissent à l’association la gestion de leur bien, afin de permettre à des familles d’accéder à un logement. </p>
         <div class="espaceur_2"></div>
-        <a href="./view/Nos_missions.php"><button class="accueil_bouton1">En savoir + </button></a>
+        <a href="./view/Nos_missions.php"><button class="accueil_bouton1 from-right">En savoir + </button></a>
 
     </div>
 
@@ -126,7 +126,7 @@
         <div class="espaceur_2"></div>
         <p>Installée depuis 2003 en Auvergne, et issue des métiers de la logistique, cathy a toujours été une femme de terrain. Engagée sur le territoire local...</p>
         <div class="espaceur_2"></div>
-        <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2">En savoir + </button></a>
+        <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2 from-right">En savoir + </button></a>
 
     </div>
 
@@ -142,7 +142,7 @@
 
     <h2>Si vous avez questions, n'hésitez pas !</h2>
     <div class="espaceur"></div>
-    <a href="./view/Contact.php"><button class="accueil_bouton3">Contactez-nous</button></a>
+    <a href="./view/Contact.php"><button class="accueil_bouton3 from-right">Contactez-nous</button></a>
 
 </div>
 
@@ -305,7 +305,7 @@
 
         <div class="espaceur"></div>
 
-        <div class="footer_bouton">Nous soutenir</div>
+        <div class="footer_bouton from-right">Nous soutenir</div>
 
     </div>
 
