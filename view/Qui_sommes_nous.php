@@ -11,7 +11,7 @@
 <!-- header -->
 <div class="loader-container">
     <div class="spinner"></div>
-    <img src="../public/Logo.png" class="logo">
+    <img src="../public/img/Logo.png" class="logo">
 </div>
 <?php require('template/header.php'); ?>
 
@@ -127,35 +127,35 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/20180901_112346.jpg">
+                            <img class="img-fluid" src="../public/img/20180901_112346.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/245227387_4390597974320499_7239487432505787691_n.jpg">
+                            <img class="img-fluid" src="../public/img/245227387_4390597974320499_7239487432505787691_n.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/311581943_482677943899965_8179245929170364543_n.jpg">
+                            <img class="img-fluid" src="../public/img/311581943_482677943899965_8179245929170364543_n.jpg">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/316407301_508425044658588_7793263675068179550_n 1.png">
+                            <img class="img-fluid" src="../public/img/316407301_508425044658588_7793263675068179550_n 1.png">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/expo Association Vendredi Issoire 26 aout.jpg">
+                            <img class="img-fluid" src="../public/img/expo Association Vendredi Issoire 26 aout.jpg">
                         </div>
                     </div>
                 </div>

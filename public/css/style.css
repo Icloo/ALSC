@@ -123,7 +123,7 @@ footer h3 {
 
 .hero {
     height: 66vh;
-    background-image: url('../IMG_6179.jpg');
+    background-image: url('../img/IMG_6179.jpg');
     background-position: center;
     background-size: cover;
     display: flex;
@@ -205,7 +205,7 @@ footer h3 {
 }
 
 .accueil_2_droite {
-    background-image: url('../20180831_203348.jpg');
+    background-image: url('../img/20180831_203348.jpg');
     background-size: cover;
     background-position: center;
     width: 40%;
@@ -216,7 +216,7 @@ footer h3 {
 }
 
 .accueil_2_droite_1 {
-    background-image: url('../20220627_120445.jpg');
+    background-image: url('../img/20220627_120445.jpg');
     background-size: cover;
     background-position: center;
     width: 40%;
@@ -275,7 +275,7 @@ h2 {
 /* -- nos missions */
 
 .hero_nos_missions {
-    background-image: url('../20220627_120445.jpg');
+    background-image: url('../img/20220627_120445.jpg');
     height: 60vh;
     background-position: center;
     background-size: cover;
@@ -309,7 +309,7 @@ h2 {
 }
 
 .nos_missions_2_droite {
-    background-image: url('../maison_2.png');
+    background-image: url('../img/maison_2.png');
     background-size: cover;
     background-position: center;
     width: 33%;
@@ -333,7 +333,7 @@ h2 {
 }
 
 .nos_missions_3_gauche {
-    background-image: url('../logo_nos_missions.png');
+    background-image: url('../img/logo_nos_missions.png');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -362,7 +362,7 @@ span {
 }
 
 .nos_missions_4_droite {
-    background-image: url('../72429848_701742843672592_5365964653077725184_n\ 6.png');
+    background-image: url('../img/72429848_701742843672592_5365964653077725184_n\ 6.png');
     background-size: cover;
     background-position: center;
     width: 50%;
@@ -382,7 +382,7 @@ span {
 
 .nos_missions_5_photos_gauche {
     
-    background-image: url('../nos_missions_gauche_blur.png');
+    background-image: url('../img/nos_missions_gauche_blur.png');
     background-size: cover;
     background-position: center;
     width: 45%;
@@ -406,7 +406,7 @@ span {
 
 
 .nos_missions_5_photos_droite {
-    background-image: url('../nos_missions_droite_blur.png');
+    background-image: url('../img/nos_missions_droite_blur.png');
     background-size: cover;
     background-position: center;
     width: 45%;
@@ -439,7 +439,7 @@ p {
 /* -- propriétaires et locataires -- */
 
 .hero_proprietaire {
-    background-image: url('../hero_proprietaire.png');
+    background-image: url('../img/hero_proprietaire.png');
     height: 60vh;
     background-position: center;
     background-size: cover;
@@ -487,7 +487,7 @@ p {
 /* Contact */
 
 .hero_contact{
-    background-image: url('../hero.contact.png');
+    background-image: url('../img/hero.contact.png');
     height: 60vh;
     background-position: center;
     background-size: cover;
@@ -545,7 +545,7 @@ form{
 
 
 .hero_partenaires {
-    background-image: url('../hero_partenaire.png');
+    background-image: url('../img/hero_partenaire.png');
     height: 60vh;
     background-position: center;
     background-size: cover;
@@ -578,7 +578,7 @@ form{
 }
 
 .partenaires_2_photo {
-    background-image: url('../Ville_Issoire_Q_300dpi_transparent.png');
+    background-image: url('../img/Ville_Issoire_Q_300dpi_transparent.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -588,7 +588,7 @@ form{
 }
 
 .partenaires_3_photo {
-    background-image: url('../cdnlogo.com_rotary.svg');
+    background-image: url('../img/cdnlogo.com_rotary.svg');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -598,7 +598,7 @@ form{
 }
 
 .partenaires_4_photo {
-    background-image: url('../logo_cpam_transparent.png');
+    background-image: url('../img/logo_cpam_transparent.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -614,7 +614,7 @@ form{
 }
 
 .partenaires_5_photo {
-    background-image: url('../logo_puy_de_dome_2.svg.png');
+    background-image: url('../img/logo_puy_de_dome_2.svg.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -624,7 +624,7 @@ form{
 }
 
 .partenaires_6_photo {
-    background-image: url('../logo_ml.png');
+    background-image: url('../img/logo_ml.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -658,7 +658,7 @@ form{
 
 
 .hero_qsn {
-    background-image: url('../hero.contact.png');
+    background-image: url('../img/hero.contact.png');
     height: 60vh;
     background-position: center;
     background-size: cover;
@@ -679,7 +679,7 @@ form{
 }
 
 .qsn_1_image {
-    background-image: url('../cathy.png');
+    background-image: url('../img/cathy.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -695,7 +695,7 @@ form{
 }
 
 .qsn_2_image {
-    background-image: url('../316407301_508425044658588_7793263675068179550_n\ 1.png');
+    background-image: url('../img/316407301_508425044658588_7793263675068179550_n\ 1.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -710,7 +710,7 @@ form{
 }
 
 .qsn_3_image {
-    background-image: url('../maison_2.png');
+    background-image: url('../img/maison_2.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -785,7 +785,7 @@ form{
 /* Contributions */
 
 .hero_contributions {
-    background-image: url('../contribution.png');
+    background-image: url('../img/contribution.png');
     height: 60vh;
     background-position: center;
     background-size: cover;

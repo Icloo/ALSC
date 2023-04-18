@@ -12,7 +12,7 @@
 <!-- header -->
 <div class="loader-container">
     <div class="spinner"></div>
-    <img src="../public/Logo.png" class="logo">
+    <img src="../public/img/Logo.png" class="logo">
 </div>
 <?php require('template/header.php'); ?>
 
@@ -71,7 +71,7 @@
         </div>
     </div>
     <div>
-        <img src="../public/Locataire.png" alt="" class="locataire_size_image">
+        <img src="../public/img/Locataire.png" alt="" class="locataire_size_image">
     </div>    
 </div>
 <div class="Block3">

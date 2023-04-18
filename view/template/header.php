@@ -1,6 +1,6 @@
 
 <header id="header">
-<a class="navbar-brand" href="../index.php"><img class="logo" src="../public/Logo.png" alt="Logo"></a>
+<a class="navbar-brand" href="../index.php"><img class="logo" src="../public/img/Logo.png" alt="Logo"></a>
 <nav class="navbar navbar-expand-lg navbar-light">
  
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">

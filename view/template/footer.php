@@ -37,16 +37,16 @@
     <div class="footer_gauche">
 
         <div class="logo_footer">
-            <img src="../public/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer" alt="Logo Ville d'Issoire" >
-            <img src="../public/logo_puy_de_dome_2.svg.png" class="taille_logo_footer"  alt="Logo Puy-De-Dome" >
+            <img src="../public/img/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer" alt="Logo Ville d'Issoire" >
+            <img src="../public/img/logo_puy_de_dome_2.svg.png" class="taille_logo_footer"  alt="Logo Puy-De-Dome" >
         </div>
 
         <div class="logo_footer">
-            <img src="../public/cdnlogo.com_rotary.svg" class="taille_logo_footer" alt="Logo Rotary issoire" >
-            <img src="../public/logo_cpam_transparent.png" class="taille_logo_footer" alt="Logo CPAM" >
+            <img src="../public/img/cdnlogo.com_rotary.svg" class="taille_logo_footer" alt="Logo Rotary issoire" >
+            <img src="../public/img/logo_cpam_transparent.png" class="taille_logo_footer" alt="Logo CPAM" >
         </div>
         <div >
-            <img src="../public/logo_ml.png" class="taille_logo_footer" alt="">
+            <img src="../public/img/logo_ml.png" class="taille_logo_footer" alt="">
         </div>
 
         <div class="espaceur"></div>

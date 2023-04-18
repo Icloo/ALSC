@@ -11,7 +11,7 @@
 
 <!-- header -->
 <header id="header">
-    <a class="navbar-brand" href="#"><img class="logo" src="public/Logo.png"></a>
+    <a class="navbar-brand" href="#"><img class="logo" src="public/img/Logo.png"></a>
     <nav class="navbar navbar-expand-lg navbar-light">
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -166,35 +166,35 @@
                     <div class="carousel-item active">
                         <div class="col-md-4">
                             <div class="card card-body">
-                                <img class="img-fluid" src="./public/logo_puy_de_dome_2.svg.png">
+                                <img class="img-fluid" src="./public/img/logo_puy_de_dome_2.svg.png">
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="col-md-4">
                             <div class="card card-body">
-                                <img class="img-fluid" src="./public/logo_cpam_transparent.png">
+                                <img class="img-fluid" src="./public/img/logo_cpam_transparent.png">
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="col-md-4">
                             <div class="card card-body index">
-                                <img class="img-fluid" src="./public/cdnlogo.com_rotary.svg">
+                                <img class="img-fluid" src="./public/img/cdnlogo.com_rotary.svg">
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="col-md-4">
                             <div class="card card-body">
-                                <img class="img-fluid" src="./public/Ville_Issoire_Q_300dpi_transparent.png">
+                                <img class="img-fluid" src="./public/img/Ville_Issoire_Q_300dpi_transparent.png">
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="col-md-4">
                             <div class="card card-body">
-                                <img class="img-fluid" src="./public/logo_ml.png">
+                                <img class="img-fluid" src="./public/img/logo_ml.png">
                             </div>
                         </div>
                     </div>
@@ -291,16 +291,16 @@
     <div class="footer_gauche">
 
         <div class="logo_footer">
-            <img src="./public/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer" alt="Logo Ville d'Issoire">
+            <img src="./public/img/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer" alt="Logo Ville d'Issoire">
             <img src="./public/logo_puy_de_dome_2.svg.png" class="taille_logo_footer" alt="Logo Puy-De-Dome">
         </div>
 
         <div class="logo_footer">
-            <img src="./public/cdnlogo.com_rotary.svg" class="taille_logo_footer" alt="Logo Rotary issoire">
-            <img src="./public/logo_cpam_transparent.png" class="taille_logo_footer" alt="Logo CPAM">
+            <img src="./public/img/cdnlogo.com_rotary.svg" class="taille_logo_footer" alt="Logo Rotary issoire">
+            <img src="./public/img/logo_cpam_transparent.png" class="taille_logo_footer" alt="Logo CPAM">
         </div>
         <div>
-            <img src="./public/logo_ml.png" class="taille_logo_footer" alt="">
+            <img src="./public/img/logo_ml.png" class="taille_logo_footer" alt="">
         </div>
 
         <div class="espaceur"></div>

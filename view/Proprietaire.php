@@ -11,7 +11,7 @@
 <!-- header -->
 <div class="loader-container">
     <div class="spinner"></div>
-    <img src="../public/Logo.png" class="logo">
+    <img src="../public/img/Logo.png" class="logo">
 </div>
 <?php require('template/header.php'); ?>
 
@@ -74,7 +74,7 @@
         </div>
     </div>
     <div>
-        <img src="../public/bail1.PNG" alt="choix de location" class="propriétaire_size_image">
+        <img src="../public/img/bail1.PNG" alt="graphique locataires" class="propriétaire_size_image">
     </div>    
 </div>
 <div class="espaceur"></div>
