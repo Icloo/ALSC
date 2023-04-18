@@ -424,7 +424,7 @@ span {
 }
 
 .nos_missions_4_droite {
-    background-image: url('../img/72429848_701742843672592_5365964653077725184_n\ 6.png');
+    background-image: url('../img/cathy_1.jpg');
     background-size: cover;
     background-position: center;
     width: 50%;
@@ -444,7 +444,7 @@ span {
 
 .nos_missions_5_photos_gauche {
     
-    background-image: url('../img/nos_missions_gauche_blur.png');
+    background-image: url('../img/voiture_1_blur.png');
     background-size: cover;
     background-position: center;
     width: 45%;
@@ -662,7 +662,7 @@ form{
 .partenaires_4_photo {
     background-image: url('../img/logo_cpam_transparent.png');
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     width: 40%;
     margin-left: auto;

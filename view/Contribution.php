@@ -38,7 +38,7 @@
         Des dons <br> de vêtements, de vaisselle ainsi que de jouets sont aussi essentiels à la vie quotidienne. 
         L’associations compte <br> près de 10 donateurs actifs à ce jour. <br> «Nous comptons sur vous ! »
     </p>
-    <a href="#"><img class="adhé" src="../public/img/adhérer.PNG" alt="Dons & Adhésions"></a>
+    <a href="../public/img/Adhésion.pdf" download><img class="adhé" src="../public/img/adhérer.PNG" alt="Dons & Adhésions"></a>
 </div>
 <div class="donn">
 <div class="adhe">
@@ -46,16 +46,17 @@
     <div class="espaceur_2"></div>
     <p>
         Si vous avez du temps libre et du <br> cœur, notre équipe a besoin de <br> vous ! <br>
-        <a href="#">Cliquez-ici</a> pour télécharger le <br> bulletin d’adhésion. 
+        <a href="../public/img/Adhésion.pdf" download>Cliquez-ici</a> pour télécharger le <br> bulletin d’adhésion. 
     </p>
     <div class="espaceur"></div>   
     <div>
-        <h2 class="donn2">Soyer donnateur</h2>
+        <h2 class="donn2">Devenez donateur</h2>
         <div class="espaceur_2"></div>
         <p>
             Par le biais de vos dons financier ou mobilier, <br> 
             nous garantissons un usage pratique qui permettra <br> à  
-            nos bénéficiaires de se sentir mieux et d’améliorer leur cadre de vie. 
+            nos bénéficiaires de se sentir mieux et d’améliorer leur cadre de vie. <br>
+            <a href="../public/img/DONATEURS.pdf" download>Cliquez-ici</a> pour télécharger le <br> bulletin de donateur.
         </p>
     </div>
 </div>

@@ -9,7 +9,7 @@
             <a href="./Partenaires.php">Partenaires</a>
             <a href="./Qui_sommes_nous.php">Qui sommes-nous ?</a>
             <a href="./Contact.php">Contact</a>
-            <a href="./Contribution.php">Dons & Adhérence</a>
+            <a href="./Contribution.php">Dons & Adhésions</a>
             <a href="#">Mentions légales</a>
             <a href="#">Politique de confidentialité</a>
             <a href="#">CGU</a>
@@ -46,7 +46,7 @@
             <img src="../public/img/logo_cpam_transparent.png" class="taille_logo_footer" alt="Logo CPAM" >
         </div>
         <div >
-            <img src="../public/img/logo_ml.png" class="taille_logo_footer" alt="">
+            <img src="../public/img/logo_ml.png" class="taille_logo_footer" alt="Logo mission locale">
         </div>
 
         <div class="espaceur"></div>

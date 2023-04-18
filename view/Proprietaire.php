@@ -90,8 +90,7 @@
 <p>
     Nous lançons un appel aux propriétaire privés !
     Le prix au mêtre carré (m2), aussi appelé tarif social est fixé par
-    l’Anah :
-    En 2020 il est de 7,20€
+    le département.
 </p>
 </div>
 

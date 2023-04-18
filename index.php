@@ -28,8 +28,8 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="./view/Nos_missions.php">Nos missions</a>
-                        <a class="dropdown-item" href="./view/Locataires.php">Locative</a>
                         <a class="dropdown-item" href="./view/Proprietaire.php">Propriétaire</a>
+                        <a class="dropdown-item" href="./view/Locataires.php">Locataires</a>
 
                     </div>
                 </li>
@@ -42,7 +42,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="./view/Contact.php">Contact</a>
                 </li>
-                <a href="./view/Contribution.php"><button class="btn btn-outline-success lien" type="button">Dons & Adhérence</button></a>
+                <a href="./view/Contribution.php"><button class="btn btn-outline-success lien" type="button">Dons & Adhésions</button></a>
                 <button class="btn btn-outline-success testtest" type="button" id="dark">Mode <i class="fa-solid fa-moon"></i> </button>
             </ul>
         </div>
@@ -263,7 +263,7 @@
             <a href="./view/Partenaires.php">Partenaires</a>
             <a href="./view/Qui_sommes_nous.php">Qui sommes-nous ?</a>
             <a href="./view/Contact.php">Contact</a>
-            <a href="#">Dons et adhérence</a>
+            <a href="./view/Contribution.php">Dons et Adhésions</a>
             <a href="#">Mentions légales</a>
             <a href="#">Politique de confidentialité</a>
             <a href="#">CGU</a>
@@ -300,7 +300,7 @@
             <img src="./public/img/logo_cpam_transparent.png" class="taille_logo_footer" alt="Logo CPAM">
         </div>
         <div>
-            <img src="./public/img/logo_ml.png" class="taille_logo_footer" alt="">
+            <img src="./public/img/logo_ml.png" class="taille_logo_footer" alt="Logo mission locale">
         </div>
 
         <div class="espaceur"></div>

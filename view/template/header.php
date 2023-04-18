@@ -17,8 +17,8 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item" href="./Nos_missions.php">Nos missions</a>
-          <a class="dropdown-item" href="./Locataires.php">Locative</a>
           <a class="dropdown-item" href="./Proprietaire.php">Propriétaire</a>
+          <a class="dropdown-item" href="./Locataires.php">Locataire</a>
          
         </div>
       </li>
@@ -32,7 +32,7 @@
         <a class="nav-link" href="./Contact.php">Contact</a>
         </li>
    
-      <a href="./Contribution.php"><button class="btn btn-outline-success lien " type="button">Dons & Adhérence </button></a>
+      <a href="./Contribution.php"><button class="btn btn-outline-success lien " type="button">Dons & Adhésions </button></a>
 
       <button class="btn btn-outline-success testtest" type="button" id="dark">Mode <i class="fa-solid fa-moon"></i></button>
       
