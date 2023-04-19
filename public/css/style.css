@@ -335,6 +335,15 @@ h2 {
   background-image: none;
 }
 
+.carousel-control-prev-icon {
+    position: absolute;
+    left: -10px;
+}
+
+.carousel-control-next-icon {
+    position: absolute;
+    right: -10px;
+}
 .index .card-body  {
     height: 22vh;
     border: none;
