@@ -109,8 +109,248 @@
 
 </div>
 
+</div>
 
+<div class="espaceur"></div>
 
+<h2>Petite galerie de photos</h2>
+
+<div class="espaceur"></div>
+
+<div class="container text-center my-3">
+    
+    <div class="row mx-auto my-auto qns">
+        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
+            <div class="carousel-inner w-100" role="listbox">
+                <div class="carousel-item active">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/20180901_112346.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/245227387_4390597974320499_7239487432505787691_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/311581943_482677943899965_8179245929170364543_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/316407301_508425044658588_7793263675068179550_n 1.png">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/expo Association Vendredi Issoire 26 aout.jpg">
+                        </div>
+                    </div>
+                </div>
+             
+            </div>
+            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Précedent</span>
+            </a>
+            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Suivant</span>
+            </a>
+        </div>
+    </div>
+    
+</div>
+
+<div class="espaceur"></div>
+
+<h2>Petite galerie de photos</h2>
+
+<div class="espaceur"></div>
+
+<div class="container text-center my-3">
+    
+    <div class="row mx-auto my-auto qns">
+        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
+            <div class="carousel-inner w-100" role="listbox">
+                <div class="carousel-item active">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/20180901_112346.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/245227387_4390597974320499_7239487432505787691_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/311581943_482677943899965_8179245929170364543_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/316407301_508425044658588_7793263675068179550_n 1.png">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/expo Association Vendredi Issoire 26 aout.jpg">
+                        </div>
+                    </div>
+                </div>
+             
+            </div>
+            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Précedent</span>
+            </a>
+            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Suivant</span>
+            </a>
+        </div>
+    </div>
+    
+</div>
+<div class="espaceur"></div>
+
+<h2>Petite galerie de photos</h2>
+
+<div class="espaceur"></div>
+
+<div class="container text-center my-3">
+    
+    <div class="row mx-auto my-auto qns">
+        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
+            <div class="carousel-inner w-100" role="listbox">
+                <div class="carousel-item active">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/20180901_112346.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/245227387_4390597974320499_7239487432505787691_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/311581943_482677943899965_8179245929170364543_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/316407301_508425044658588_7793263675068179550_n 1.png">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/expo Association Vendredi Issoire 26 aout.jpg">
+                        </div>
+                    </div>
+                </div>
+             
+            </div>
+            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Précedent</span>
+            </a>
+            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Suivant</span>
+            </a>
+        </div>
+    </div>
+    
+</div>
+<div class="espaceur"></div>
+
+<h2>Petite galerie de photos</h2>
+
+<div class="espaceur"></div>
+
+<div class="container text-center my-3">
+    
+    <div class="row mx-auto my-auto qns">
+        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
+            <div class="carousel-inner w-100" role="listbox">
+                <div class="carousel-item active">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/20180901_112346.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/245227387_4390597974320499_7239487432505787691_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/311581943_482677943899965_8179245929170364543_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/316407301_508425044658588_7793263675068179550_n 1.png">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/expo Association Vendredi Issoire 26 aout.jpg">
+                        </div>
+                    </div>
+                </div>
+             
+            </div>
+            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Précedent</span>
+            </a>
+            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Suivant</span>
+            </a>
+        </div>
+    </div>
+    
 </div>
 
 <div class="espaceur"></div>
