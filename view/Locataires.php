@@ -42,7 +42,7 @@
 <div class="espaceur"></div>
 
 <div class="block">
-    <div>
+    <div class="size_locataire">
         <div>
             <h2 class="titre">Comment obtenir un logement ?</h2>
             <div class="espaceur_2"></div>
@@ -70,8 +70,11 @@
             </p>
         </div>
     </div>
-    <div>
-        <img src="../public/img/Locataire.png" alt="" class="locataire_size_image">
+    <div class="espaceur_verticale"></div>
+    <div class="size_img">
+        <div class="espaceur"></div>
+        <div class="espaceur"></div>
+        <img src="../public/img/locataire_2.png" alt="" class="locataire_size_image">
     </div>    
 </div>
 <div class="Block3">

@@ -166,6 +166,10 @@ footer h3 {
     height: 2vh;
 }
 
+.espaceur_verticale {
+    width: 7vw;
+}
+
 .hero_espaceur {
     height: 3vh;
 }
@@ -540,12 +544,17 @@ p {
     text-align: left;
 }
 
+.size_locataire {
+    width: 70%;
+}
+
+
 .propriétaire_size_image {
     width: 40vw;
     border-radius: 20px;
 }
 .locataire_size_image {
-    width: 45vw;
+    width: 100%;
     border-radius: 20px;
 }
 
