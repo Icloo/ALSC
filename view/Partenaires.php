@@ -47,7 +47,7 @@
 
 <div class="partenaires_2">
 
-    <h2>La ville d'issoire</h2>
+    <h2>La Ville d'issoire</h2>
 
     <div class="espaceur"></div>
 
@@ -70,7 +70,7 @@
 
 <div class="partenaires_3">
 
-    <h2>L’association ROTARY club d'issoire</h2>
+    <h2>L’Association ROTARY Club d'issoire</h2>
 
     <div class="espaceur"></div>
 
@@ -97,7 +97,7 @@
 
 <div class="partenaires_4">
 
-    <h2>La mission locale de la ville d'Issoire</h2>
+    <h2>La Mission Locale de la Ville d'Issoire</h2>
 
     <div class="espaceur"></div>
 
@@ -117,7 +117,7 @@
 <div class="espaceur"></div>
 <div class="espaceur"></div>
 
-<h2>Le département du Puy-de-Dôme</h2>
+<h2>Le Département du Puy-de-Dôme</h2>
 <div class="espaceur"></div>
 <div class="partenaires_5">
 
@@ -146,7 +146,7 @@
 
 <div class="partenaires_4">
 
-    <h2>L’assurance maladie du Puy-de-Dôme</h2>
+    <h2>L’Assurance Maladie du Puy-de-Dôme</h2>
 
     <div class="espaceur"></div>
 
@@ -192,42 +192,42 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/PRIX_SERVIR.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/PRIX_SERVIR.jpg" alt="Récomponse du prix servir">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/Séverine et Denis.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/Séverine et Denis.jpg" alt="Récompense reçu par la Rotary">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/IMG-20221201-WA0028.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/IMG-20221201-WA0028.jpg" alt="Photo de Cathy">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_1.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_1.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_2.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_2.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_3.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_3.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
@@ -236,21 +236,21 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_6.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_6.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_7.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_7.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/médaille.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/médaille.jpg" alt="Médaille récu par Rotary">
                         </div>
                     </div>
                 </div>

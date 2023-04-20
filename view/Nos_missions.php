@@ -170,49 +170,49 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_1.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_1.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_7.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_7.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_6.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_6.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_2.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_2.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_3.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_3.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_4.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_4.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_5.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_5.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>

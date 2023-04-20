@@ -117,42 +117,42 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_6.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_6.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_1.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_1.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_2.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_2.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_3.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_3.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_4.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_4.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_5.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_5.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
