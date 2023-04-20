@@ -1137,9 +1137,12 @@ form{
 
     .footer_contact {
         margin-top: 3vh;
+        word-wrap: break-word;
     }
     .footer_bouton{
         width: 50vw;
         margin-left: 10vh;
     }
+
+
 }
