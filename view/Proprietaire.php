@@ -69,7 +69,7 @@
             <ul>
                 <li>Un loyer, même en cas de vacances</li>
                 <li>La garantie d'un logement remis en état</li>
-                <li>Vous ne déclarez que 15% des révenus fonciers</li>
+                <li>Vous ne déclarez que 15% des revenus fonciers</li>
             </ul>
         </div>
     </div>
@@ -89,7 +89,7 @@
 <div class="espaceur"></div>
 <p>
     Nous lançons un appel aux propriétaire privés !
-    Le prix au mêtre carré (m2), aussi appelé tarif social est fixé par
+    Le prix au mètre carré (m2), aussi appelé tarif social est fixé par
     le département.
 </p>
 </div>

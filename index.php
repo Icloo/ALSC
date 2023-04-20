@@ -99,7 +99,7 @@
 
         <h2>Nos actions</h2>
         <div class="espaceur_2"></div>
-        <p>L’Association s’appuie sur le principe de l’intermediation locative. Notre principale mission ? Prendre en charge des logements de propriétaires privés, qui laissent à l’association la gestion de leur bien, afin de permettre à des familles d’accéder à un logement. </p>
+        <p>L’Association s’appuie sur le principe de l’intermédiation locative. Notre principale mission ? Prendre en charge des logements de propriétaires privés, qui laissent à l’association la gestion de leur bien, afin de permettre à des familles d’accéder à un logement. </p>
         <div class="espaceur_2"></div>
         <a href="./view/Nos_missions.php"><button class="accueil_bouton1 from-right">En savoir + </button></a>
 
@@ -116,7 +116,7 @@
 
 <div class="espaceur"></div>
 
-<div class="accueil_2">
+<div class="accueil_2 accueil_2_responsive">
 
     <div class="accueil_2_droite"></div>
 
@@ -124,7 +124,7 @@
 
         <h2>Notre histoire</h2>
         <div class="espaceur_2"></div>
-        <p>Installée depuis 2003 en Auvergne, et issue des métiers de la logistique, cathy a toujours été une femme de terrain. Engagée sur le territoire local...</p>
+        <p>Installée depuis 2003 en Auvergne, et issue des métiers de la logistique, Cathy a toujours été une femme de terrain. Engagée sur le territoire local...</p>
         <div class="espaceur_2"></div>
         <a href="./view/Qui_sommes_nous.php"><button class="accueil_bouton2 from-right">En savoir + </button></a>
 
@@ -180,21 +180,21 @@
                     <div class="carousel-item">
                         <div class="col-md-4">
                             <div class="card card-body index">
-                                <img class="img-fluid" src="./public/img/cdnlogo.com_rotary.svg">
+                                <img class="img-fluid" src="./public/img/cdnlogo.com_rotary.svg" alt="Logo Rotary">
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="col-md-4">
                             <div class="card card-body">
-                                <img class="img-fluid" src="./public/img/Ville_Issoire_Q_300dpi_transparent.png">
+                                <img class="img-fluid" src="./public/img/Ville_Issoire_Q_300dpi_transparent.png" alt="Logo Ville Issoire">
                             </div>
                         </div>
                     </div>
                     <div class="carousel-item">
                         <div class="col-md-4">
                             <div class="card card-body">
-                                <img class="img-fluid" src="./public/img/logo_ml.png">
+                                <img class="img-fluid" src="./public/img/logo_ml.png" alt="Logo Mission Locale">
                             </div>
                         </div>
                     </div>
@@ -293,7 +293,7 @@
 
         <div class="logo_footer">
             <img src="./public/img/Ville_Issoire_Q_300dpi_transparent.png" class="taille_logo_footer" alt="Logo Ville d'Issoire">
-            <img src="./public/logo_puy_de_dome_2.svg.png" class="taille_logo_footer" alt="Logo Puy-De-Dome">
+            <img src="./public/img/logo_puy_de_dome_2.svg.png" class="taille_logo_footer" alt="Logo Puy-De-Dome">
         </div>
 
         <div class="logo_footer">
@@ -301,12 +301,12 @@
             <img src="./public/img/logo_cpam_transparent.png" class="taille_logo_footer" alt="Logo CPAM">
         </div>
         <div>
-            <img src="./public/img/logo_ml.png" class="taille_logo_footer" alt="Logo mission locale">
+            <img src="./public/img/logo_ml.png" class="taille_logo_footer ml" alt="Logo mission locale">
         </div>
 
         <div class="espaceur"></div>
 
-        <div class="footer_bouton from-right">Nous soutenir</div>
+        <a href="./view/Contribution.php"><button  class="footer_bouton from-right">Nous soutenir</button></a>
 
     </div>
 

@@ -38,7 +38,7 @@
     <div class="qsn_texte">
         <h2>Notre histoire</h2>
         <div class="espaceur_2"></div>
-        <p>Installée depuis 2003 en Auvergne, et issue des métiers de la logistique, cathy a toujours été une femme de terrain. 
+        <p>Installée depuis 2003 en Auvergne, et issue des métiers de la logistique, Cathy a toujours été une femme de terrain. 
         Engagée sur le territoire local et dans de nombreuses associations, Cathy souhaite poursuivre son engagement auprès des ménages et des personnes isolées confrontés à des accidents de la vie ou à une période d'instabilités afin de leur permettre de trouver un équilibre, c’est ainsi qu’elle crée sa propre association en 2017 ALSC( Association Logement Solidaire Cathy) , en tant que Présidente bénévole.</p>
     </div>
 
@@ -60,7 +60,7 @@
             ALSC en quelques chiffres: depuis sa création :
             <ul>
                 <li>16 logements en intermédiations </li>
-                <li>95 personnes relogées, avec le concours des bailleurs sociaux, propiétaire privés et ALSC </li>
+                <li>95 personnes relogées, avec le concours des bailleurs sociaux, propriétaire privés et ALSC </li>
                 <li>5 bénévoles dont Cathy elle-même. </li>
             </ul>
                 Pour 2022 ce sont :
@@ -83,7 +83,7 @@
     <div class="qsn_texte">
     <div class="espaceur"></div>
         <p>La mairie d’Issoire décernera en 2022 la médaille du bénévolat à Cathy pour son engagement.
-            Les ambitions de Cathy pour ses prochaines années seraient, pérenniser ALSC, continuer d’être identifiés sur Issoire comme un acteur majeur et incontournable du logement par les propriétaires et les bénéficiaires, pouvoir embaucher un.e salarié.e pour le suivi administratif ( Cathy reste et restera une femme de terrain !!! ), et trouver des bénévoles sérieux et engagé.e.s?</p>
+            Les ambitions de Cathy pour ses prochaines années seraient, pérenniser ALSC, continuer d’être identifiés sur Issoire comme un acteur majeur et incontournable du logement par les propriétaires et les bénéficiaires, pouvoir embaucher un(e) salarié(e) pour le suivi administratif ( Cathy reste et restera une femme de terrain !!! ), et trouver des bénévoles sérieux et engagé.e.s?</p>
             <div class="espaceur"></div>
     </div>
 

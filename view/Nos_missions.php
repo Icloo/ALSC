@@ -35,7 +35,7 @@
     
     <p>  L’Association Logement Solidaire Cathy a pour mission principale l’insertion par le logement. </p>
     <p>  Implantée depuis janvier 2017 sur le secteur d’Issoire, ALSC se mobilise sur le logement et l’accompagnement des ménages et des personnes isolées, confrontés à un accident de la vie ou à une période d’instabilité afin de leur permettre de trouver un équilibre. </p>
-    <p>  Nous prenons en charge les logements de propriétaires privés solidaires afin que l’association s’occupe de la gestion de leur bien et permettre à des familles d’acceder à une habitation. </p>
+    <p>  Nous prenons en charge les logements de propriétaires privés solidaires afin que l’association s’occupe de la gestion de leur bien et permettre à des familles d’accéder à une habitation. </p>
 </div>
 
 <div class="espaceur"></div>
