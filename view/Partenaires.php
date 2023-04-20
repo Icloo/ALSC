@@ -47,7 +47,7 @@
 
 <div class="partenaires_2">
 
-    <h2>La ville d'issoire</h2>
+    <h2>La Ville d'issoire</h2>
 
     <div class="espaceur"></div>
 
@@ -70,7 +70,7 @@
 
 <div class="partenaires_3">
 
-    <h2>L’association ROTARY club d'issoire</h2>
+    <h2>L’Association ROTARY Club d'issoire</h2>
 
     <div class="espaceur"></div>
 
@@ -97,7 +97,7 @@
 
 <div class="partenaires_4">
 
-    <h2>La mission locale de la ville d'Issoire</h2>
+    <h2>La Mission Locale de la Ville d'Issoire</h2>
 
     <div class="espaceur"></div>
 
@@ -117,7 +117,7 @@
 <div class="espaceur"></div>
 <div class="espaceur"></div>
 
-<h2>Le département du Puy-de-Dôme</h2>
+<h2>Le Département du Puy-de-Dôme</h2>
 <div class="espaceur"></div>
 <div class="partenaires_5">
 
@@ -146,7 +146,7 @@
 
 <div class="partenaires_4">
 
-    <h2>L’assurance maladie du Puy-de-Dôme</h2>
+    <h2>L’Assurance Maladie du Puy-de-Dôme</h2>
 
     <div class="espaceur"></div>
 

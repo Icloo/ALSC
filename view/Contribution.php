@@ -71,7 +71,7 @@
         <p>Grâce à des bailleurs sociaux et propriétaires privés ! Merci !</p>
     </div>
     <div>
-        <img class="prix" src="../public/img/PRIX_SERVIR.jpg" alt="Remise du prix">
+        <img class="prix" src="../public/img/repasdenoel/PRIX_SERVIR.jpg" alt="Remise du prix">
         <p class="dipl">
             Le Rotary nous a récompensé du “Prix Servir” <br>
             Nous avons aujourd’hui 84 adhérents ainsi qu’un jardin partagé
