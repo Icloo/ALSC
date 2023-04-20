@@ -46,12 +46,12 @@
             <img src="../public/img/logo_cpam_transparent.png" class="taille_logo_footer" alt="Logo CPAM" >
         </div>
         <div >
-            <img src="../public/img/logo_ml.png" class="taille_logo_footer" alt="Logo mission locale">
+            <img src="../public/img/logo_ml.png" class="taille_logo_footer ml" alt="Logo mission locale">
         </div>
 
         <div class="espaceur"></div>
 
-        <div class="footer_bouton">Nous soutenir</div>
+        <a href="./Contribution.php"><button class="footer_bouton from-right">Nous soutenir</button></a>
         
     </div>
 

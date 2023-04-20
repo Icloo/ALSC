@@ -66,7 +66,7 @@
             <div class="espaceur_2"></div>
             <p>
                 Cette période est souvent gage de réinsertion sociale. Les bénévoles se mobilisent pour l’installation de la famille ou de la personne : apport de meubles ou de la vaisselle le cas échéant, puis les accompagnent dans leurs démarches administratives, sociales et professionnelles.
-                ALSC permet aussi de de loger ces personnes chez d’autres propriétaires privés ou des bailleurs sociaux, grâce au réseau partenarial qu’elle a su créer. 
+                ALSC permet aussi de loger ces personnes chez d’autres propriétaires privés ou des bailleurs sociaux, grâce au réseau partenarial qu’elle a su créer. 
             </p>
         </div>
     </div>

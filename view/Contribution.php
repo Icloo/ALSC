@@ -67,7 +67,7 @@
         <div class="espaceur_2"></div>
         <li>5 propriétaires solidaires </li>
         <li>9 Logements</li>
-        <li>32 famille logées</li>
+        <li>32 familles logées</li>
         <p>Grâce à des bailleurs sociaux et propriétaires privés ! Merci !</p>
     </div>
     <div>
