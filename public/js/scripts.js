@@ -41,7 +41,7 @@ if (mode === "oui") {
 //////////////////////////////////////////////////////////
 
 $('#recipeCarousel').carousel({
-    interval: 10000
+    interval: 2100
   })
   
   $('.carousel .carousel-item').each(function(){
