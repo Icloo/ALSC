@@ -1095,6 +1095,14 @@ form{
         flex-direction: column;
     }
 
+    .qsn_4_droite{
+        flex-direction: column
+    }
+
+    .qsn_bandeau_titre {
+        display : none
+    }
+
     .fmap {
         flex-direction: column;
     }
