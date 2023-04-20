@@ -51,7 +51,7 @@
 
 <div class="loader-container">
     <div class="spinner"></div>
-    <img src="./public/Logo.png" class="logo" alt="Logo">
+    <img src="./public/img/Logo.png" class="logo" alt="Logo">
 </div>
 
 <!-- hero -->
