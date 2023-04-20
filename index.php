@@ -266,7 +266,7 @@
             <a href="./view/Contact.php">Contact</a>
             <a href="./view/Contribution.php">Dons et Adhésions</a>
             <a href="./public/formulaire/MentionsLegales_finale.pdf">Mentions légales</a>
-            <a href="./public/formulaire/Politique-de-confidentialité_finale.pdf">Politique de confidentialité</a>
+            <a href="./public/formulaire/Politique-de-confidentialite_finale.pdf">Politique de confidentialité</a>
             <a href="./public/formulaire/CGU_finale.pdf">Conditions générales d'utilisation</a>
         </div>
 

@@ -5,6 +5,8 @@ window.addEventListener('load', () => {
     loaderContainer.parentElement.removeChild(loaderContainer);
 });
 
+////////////////////////////////////////////////////////
+
 dark = document.getElementById('dark');
 
 dark.addEventListener('click', modesombre);
