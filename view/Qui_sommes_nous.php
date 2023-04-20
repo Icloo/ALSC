@@ -194,7 +194,7 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG_6179.jpg">
+                            <img class="img-fluid" src="../public/img/IMG_6179.jpg">
                         </div>
                     </div>
                 </div>
