@@ -344,7 +344,7 @@
 </div>
 <div class="espaceur"></div>
 
-<h2>Évélements Solidaire</h2>
+<h2>Événements Solidaire</h2>
 
 <div class="espaceur"></div>
 

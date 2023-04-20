@@ -89,6 +89,105 @@
 </div>
 </div>
 
+
+<div class="espaceur"></div>
+
+<h2>Événements Solidaire</h2>
+
+<div class="espaceur"></div>
+
+<div class="container text-center my-3">
+    
+    <div class="row mx-auto my-auto qns">
+        <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
+            <div class="carousel-inner w-100" role="listbox">
+                <div class="carousel-item active">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/20180901_112346.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/277796635_669193081470352_3078320550928381375_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/308255347_452885903577219_4412123210667523789_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/72989229_701742430339300_4967003899706736640_n.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/75224660_701742627005947_1133728665855590400_n.jpg">
+                        </div>
+                    </div>
+                </div>
+             
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/expo Association Vendredi Issoire 26 aout.jpg">
+                        </div>
+                    </div>
+                </div>
+             
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/expo avec Khadim.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/fred popo.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/Massabielle2961.jpg">
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/sevigne12960.jpg">
+                        </div>
+                    </div>
+                </div>
+             
+            </div>
+            <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Précedent</span>
+            </a>
+            <a class="carousel-control-next w-auto" href="#recipeCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
+                <span class="sr-only">Suivant</span>
+            </a>
+        </div>
+    </div>
+    
+</div>
+
 <div class="espaceur"></div>
 <div class="espaceur"></div>
 
