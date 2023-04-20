@@ -938,3 +938,204 @@ form{
     text-align: center;
     margin-right: 3rem;
 }
+
+
+/* ******************************RESPONSIVE************************************************** */
+
+
+@media (max-width: 768px) {
+
+    .accueil_1 {
+        flex-direction: column;
+    }
+
+    .accueil_2 {
+        flex-direction: column;
+    }
+
+    .accueil_2_gauche {
+        width: 100%;
+    }
+
+    .accueil_2_droite_1 , .accueil_2_droite{
+        width: 70%;
+        margin-top: 3vh;
+    }
+
+    .interieur {
+        margin-top: 3vh;
+
+    }
+
+    .accueil_2_responsive {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .liste_temoignages {
+        flex-direction: column;
+    }
+
+    .temoignages {
+        width: 80%;
+        margin-bottom: 5vh;
+    }
+
+    .nos_missions_2 {
+        flex-direction: column;
+    }
+
+    .nos_missions_2_gauche {
+        width: 90%;
+    }
+
+    .nos_missions_2_droite {
+        height: 50vh;
+        width: 50vh;
+    }
+
+    .nos_missions_3 {
+        flex-direction: column-reverse;
+    }
+
+    .nos_missions_3_droite {
+        width: 90%;
+        margin-left: 5vw;
+    }
+
+    .nos_missions_3_gauche {
+        width: 50vh;
+        height: 50vh;
+    }
+
+    .nos_missions_4 {
+        flex-direction: column;
+    }
+
+    .nos_missions_4_gauche {
+        width: 90%;
+    }
+
+    .nos_missions_4_droite {
+        width: 50vh;
+        height: 50vw;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .nos_missions_5_photos {
+        flex-direction: column;
+    }
+
+    .nos_missions_5_photos_gauche {
+        margin-left: auto;
+        margin-right: auto;
+        height: 100%;
+    }
+
+    .nos_missions_5_photos_droite {
+        margin-left: auto;
+        margin-right: auto;
+        height: 100%;
+    }
+
+    .partenaires_photo_texte {
+        flex-direction: column;
+    }
+
+    .partenaires_2_texte {
+        width: 90%;
+    }
+
+    .partenaires_2_photo , .partenaires_3_photo , .partenaires_4_photo , .partenaires_5_photo , .partenaires_6_photo {
+        height: 50vh;
+        width: 50vw;
+
+    }
+
+    .partenaires_4_photo {
+        background-size: contain;
+    }
+
+    .partenaires_photo_size {
+        width: 100%;
+    }
+
+    .photo_autre_partenaire {
+        width: 100%;
+        height: 100%;
+    }
+
+    .qsn_1 {
+        flex-direction: column;
+    }
+
+    .qsn_texte {
+        width: 90%;
+    }
+
+    .qsn_1_image , .qsn_2_image , .qsn_3_image{
+        width: 50vw;
+        height: 50vh;
+    }
+
+    .qsn_2 {
+        flex-direction: column-reverse;
+    }
+
+    .qsn_3 {
+        flex-direction: column;
+    }
+
+    .fmap {
+        flex-direction: column;
+    }
+
+    .inp {
+        width: 100%;
+    }
+
+    form {
+        margin-left: 0rem;
+        padding-left: 3vw;
+        padding-right: 3vw;
+    }
+
+    .cont {
+        flex-direction: column;
+    }
+
+    .adhé {
+        width: 30vw;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .loge {
+        flex-direction: column;
+    }
+
+    .donn {
+        flex-direction: column;
+    }
+
+    .prix {
+        width: 100%;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+
+    .logo_footer {
+        width: 80vw;
+    }
+
+    .taille_logo_footer {
+        width: 33vw;
+    }
+
+    .footer_contact {
+        margin-top: 3vh;
+    }
+}

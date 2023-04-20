@@ -116,7 +116,7 @@
 
 <div class="espaceur"></div>
 
-<div class="accueil_2">
+<div class="accueil_2 accueil_2_responsive">
 
     <div class="accueil_2_droite"></div>
 
