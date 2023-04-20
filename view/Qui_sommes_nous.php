@@ -398,7 +398,7 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/sevigne12960.jpg">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/sevigne12960.jpg" >
                         </div>
                     </div>
                 </div>
@@ -423,14 +423,14 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/PRIX_SERVIR.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/PRIX_SERVIR.jpg" alt="Récomponse du prix servir">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/Séverine et Denis.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/Séverine et Denis.jpg" alt="Récompense reçu par la Rotary">
                         </div>
                     </div>
                 </div>
@@ -444,21 +444,21 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_1.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_1.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_2.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_2.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_3.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_3.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
@@ -467,7 +467,7 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_6.jpg" >
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_6.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
