@@ -103,9 +103,9 @@
     </div>
 
     <div class="qsn_4_droite">
-        <p class="qsn_bandeau_texte">+2000 lorem</p>
-        <p class="qsn_bandeau_texte">+700 lorem</p>
-        <p class="qsn_bandeau_texte">+200 lorem</p>
+        <p class="qsn_bandeau_texte">+ 350 personnes reçues</p>
+        <p class="qsn_bandeau_texte">+ 80 personnes logées</p>
+        <p class="qsn_bandeau_texte">+ 40 déménagements</p>
     </div>
 
 </div>
