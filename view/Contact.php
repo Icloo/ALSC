@@ -53,15 +53,15 @@
     <div>
         <form method="post">
             <label class="lab" for="name">Votre nom</label>
-            <input class="inp" type="text" id="name" placeholder="Nom">
+            <input class="inp" type="text" id="name" placeholder="Nom" required="required">
             <label class="lab" for="prenom">Votre prénom</label>
-            <input class="inp" type="text" id="prenom" placeholder="Prénom">
+            <input class="inp" type="text" id="prenom" placeholder="Prénom" required="required">
             <label class="lab" for="email">Votre e-mail</label>
-            <input class="inp" type="mail" name="mail" id="mail" placeholder="Email">
+            <input class="inp" type="mail" name="mail" id="mail" placeholder="Email" required="required">
             <label class="lab" for="message">Objets</label>
             <textarea  name="message" id="message" cols="35" rows="5" placeholder="Objet"></textarea>
             <div class="int" >
-                <input type="checkbox" name="" id="btn">
+                <input type="checkbox" name="" id="btn" required="required">
                 <label for="btn">
                     En cochant cette case, vous confirmez avoir lu et acceptez nos <br>
                     conditions générales d'utilisation et notre politique de confidentialité.
