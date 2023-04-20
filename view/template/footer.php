@@ -10,9 +10,9 @@
             <a href="./Qui_sommes_nous.php">Qui sommes-nous ?</a>
             <a href="./Contact.php">Contact</a>
             <a href="./Contribution.php">Dons & Adhésions</a>
-            <a href="#">Mentions légales</a>
-            <a href="#">Politique de confidentialité</a>
-            <a href="#">CGU</a>
+            <a href="../public/formulaire/MentionsLegales_finale.pdf">Mentions légales</a>
+            <a href="../public/formulaire/Politique-de-confidentialité_finale.pdf">Politique de confidentialité</a>
+            <a href="../public/formulaire/CGU_finale.pdf">Conditions générales d'utilisation</a>
         </div>
 
     </div>
