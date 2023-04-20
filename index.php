@@ -287,7 +287,7 @@
                 France
             </div>
         </div>
-        <h3>Suivez-nous sur : <a href="https://www.facebook.com/AssociationLogementSolidaireCathy/?locale=fr_FR"><i class="fa-brands fa-square-facebook"></i></a> </h3>
+        <h3>Suivez-nous sur : <a href="https://www.facebook.com/AssociationLogementSolidaireCathy/?locale=fr_FR"  target="_blank"><i class="fa-brands fa-square-facebook"></i></a> </h3>
     </div>
     <div class="footer_gauche">
 
