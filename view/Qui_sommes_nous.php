@@ -99,13 +99,13 @@
 <div class="qsn_4">
 
     <div class="qsn_4_gauche">
-        <p>Quelques chiffres</p>
+        <p class="qsn_bandeau_titre">Quelques chiffres</p>
     </div>
 
     <div class="qsn_4_droite">
-        <p>+2000 lorem</p>
-        <p>+700 lorem</p>
-        <p>+200 lorem</p>
+        <p class="qsn_bandeau_texte">+2000 lorem</p>
+        <p class="qsn_bandeau_texte">+700 lorem</p>
+        <p class="qsn_bandeau_texte">+200 lorem</p>
     </div>
 
 </div>
