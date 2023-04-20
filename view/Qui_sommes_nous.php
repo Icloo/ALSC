@@ -467,21 +467,21 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_6.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_6.jpg" >
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_7.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_7.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/médaille.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/médaille.jpg"  alt="Médaille récu par Rotary">
                         </div>
                     </div>
                 </div>
