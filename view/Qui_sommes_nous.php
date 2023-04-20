@@ -126,42 +126,42 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_6.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_6.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_1.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_1.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_2.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_2.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_3.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_3.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_4.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_4.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/jardin/jardin_5.jpg">
+                            <img class="img-fluid" src="../public/img/jardin/jardin_5.jpg" alt="Jardin participatif">
                         </div>
                     </div>
                 </div>
@@ -187,63 +187,63 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/cathy_1.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/cathy_1.jpg" alt="Bureau de Cathy">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/IMG_6179.jpg">
+                            <img class="img-fluid" src="../public/img/IMG_6179.jpg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG_6172.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/IMG_6172.jpg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG_6250.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/IMG_6250.jpg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG-20220301-WA0011.jpeg">
+                            <img class="img-fluid" src="../public/img/bureau/IMG-20220301-WA0011.jpeg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG_6175.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/IMG_6175.jpg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/Marie au bureau.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/Marie au bureau.jpg" alt="Bureau de Marie">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/travaux_3.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/travaux_3.jpg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/MELVIN ET FRED AU BUREAU.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/MELVIN ET FRED AU BUREAU.jpg" alt="Bureau de Melvin et Fred">
                         </div>
                     </div>
                 </div>
@@ -267,49 +267,49 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_1.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_1.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_7.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_7.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_6.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_6.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_2.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_2.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_3.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_3.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_4.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_4.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_5.jpg">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_5.jpg" alt="Voiture de l'association">
                         </div>
                     </div>
                 </div>
@@ -333,43 +333,35 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/20180901_112346.jpg">
+                            <img class="img-fluid" src="../public/img/20180901_112346.jpg" alt="Exposition de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/277796635_669193081470352_3078320550928381375_n.jpg">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/277796635_669193081470352_3078320550928381375_n.jpg" alt="Issoire rose">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/308255347_452885903577219_4412123210667523789_n.jpg">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/308255347_452885903577219_4412123210667523789_n.jpg" alt="Issoire rose">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/72989229_701742430339300_4967003899706736640_n.jpg">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/72989229_701742430339300_4967003899706736640_n.jpg" alt="Issoire rose">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/75224660_701742627005947_1133728665855590400_n.jpg">
-                        </div>
-                    </div>
-                </div>
-
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/expo Association Vendredi Issoire 26 aout.jpg">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/75224660_701742627005947_1133728665855590400_n.jpg" alt="Issoire rose">
                         </div>
                     </div>
                 </div>
@@ -377,28 +369,36 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/expo avec Khadim.jpg">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/expo Association Vendredi Issoire 26 aout.jpg" alt="Exposition de l'association le Vendredi">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/expo avec Khadim.jpg" alt="Exposition de l'association avec Khadim">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/fred popo.jpg">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/fred popo.jpg" alt="Issoire rose">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/Massabielle2961.jpg">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/Massabielle2961.jpg" alt="Festival à l'ALSC">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/sevigne12960.jpg" >
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/sevigne12960.jpg" alt="Festival à l'ALSC">
                         </div>
                     </div>
                 </div>
@@ -437,7 +437,7 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/IMG-20221201-WA0028.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/IMG-20221201-WA0028.jpg" alt="Photo de Cathy">
                         </div>
                     </div>
                 </div>

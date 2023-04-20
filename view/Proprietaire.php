@@ -110,42 +110,42 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/cathy_1.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/cathy_1.jpg" alt="Bureau de Cathy">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/IMG_6179.jpg">
+                            <img class="img-fluid" src="../public/img/IMG_6179.jpg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG_6172.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/IMG_6172.jpg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG_6250.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/IMG_6250.jpg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG-20220301-WA0011.jpeg">
+                            <img class="img-fluid" src="../public/img/bureau/IMG-20220301-WA0011.jpeg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG_6175.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/IMG_6175.jpg" alt="Bureau de Marie">
                         </div>
                     </div>
                 </div>
@@ -159,14 +159,14 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/travaux_3.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/travaux_3.jpg" alt="Locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/MELVIN ET FRED AU BUREAU.jpg">
+                            <img class="img-fluid" src="../public/img/bureau/MELVIN ET FRED AU BUREAU.jpg" alt="Bureau de Melvin et Fred">
                         </div>
                     </div>
                 </div>

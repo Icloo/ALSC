@@ -192,42 +192,42 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/PRIX_SERVIR.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/PRIX_SERVIR.jpg" alt="Récomponse du prix servir">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/Séverine et Denis.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/Séverine et Denis.jpg" alt="Récompense reçu par la Rotary">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/IMG-20221201-WA0028.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/IMG-20221201-WA0028.jpg" alt="Photo de Cathy">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_1.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_1.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_2.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_2.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_3.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_3.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
@@ -236,21 +236,21 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_6.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_6.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/noel_7.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/noel_7.jpg" alt="Repas de noel">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/repasdenoel/médaille.jpg">
+                            <img class="img-fluid" src="../public/img/repasdenoel/médaille.jpg" alt="Médaille récu par Rotary">
                         </div>
                     </div>
                 </div>
