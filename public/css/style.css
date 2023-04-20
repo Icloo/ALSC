@@ -1138,4 +1138,8 @@ form{
     .footer_contact {
         margin-top: 3vh;
     }
+    .footer_bouton{
+        width: 50vw;
+        margin-left: 10vh;
+    }
 }
