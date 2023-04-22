@@ -230,18 +230,26 @@
     <div class="liste_temoignages">
 
         <div class="temoignages temoignages1">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita similique ut dignissimos adipisci natus dicta amet odit temporibus dolorum quis fugiat delectus ab accusamus fugit qui eveniet iste, quisquam laborum.</p>
-            <h3>Madi Satourdine</h3>
+            <p>"Fraîchement arrivée dans la région en 2022, je rêvais d'un nouveau départ en toute simplicité.
+                Les aléas de la vie font que ma situation personnelle ainsi que familliale s'est peu à peu dégradée. Jeune maman sans emploie, le salaire de mon compagnon ne suffisait plus à subvenir aux besoins de notre petite famille. 
+                Les dettes s'accumulaient et nous pénions à trouver un logement dû à notre situation. petit à petit les portes se fermaient et les démarches encourrus ne portées pas leurs fruits.
+                Redirigée via un organisme sociale, j'ai eu vent de l'association de Cathy. Prête à tout pour nous sortir de cette situation compliquée, elle à tout de suite cerné notre problème et à mis tout en oeuvre afin de nous trouver un logement.
+                Impliquée et déterminée, Cathy à su trouver les mots auprès de propriétaires qui ont confiance en sa démarche. Une vraie lueur d'espoir est apparu.
+                Aujourd'hui, grâce à son implication sans faille, nous avons su redresser la pente et reprendre en notre vie en main. Mille merci".</p>
+            <h4>Axelle, locataire</h4>
         </div>
 
         <div class="temoignages temoignages2">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam molestiae temporibus a quae, adipisci soluta voluptate, ad, rerum maiores quia vero ipsa quaerat omnis voluptatibus laboriosam delectus perferendis mollitia voluptatem!</p>
-            <h3>Madi Satourdine</h3>
+            <p>"Etant propriétaire de plusieurs logements sur le bassins d'Issoire, j'ai connu l'association via un tract laissée dans une pharmacie. Ne connaissant absolument pas le concept de sous-locations associatif je me suis posé la question d'une démarches plus étique basé sur la solidarité. Le temps ainsi que les frais investis dans les méthodes traditionnelles ne finissaient plus. J'ai toujours eu plaisir à prendre mon rôle de propriètaire à coeur, effectuer de petits travaux d'électricité, de maçonnerie, réparer, déboucher et j'en passe !  Aujourd'hui, je suis heureux de faire confiance à une femme qui se bat pour une cause juste, l'insertion par le logement. Les loyers sont honorés chaque mois et je suis prévenu en temps et en heure des opérations que necessite mes biens. Les prix au m2 sont calculés en fonction du département alors, certe, c'est pas optimale mais ce n'est rien à côté du gains de tranquillité obtenu.
+            Cathy est une femme droite dans ses bottes qui sait ou elle met les pieds. Comme moi, vous pouvez vous aussi vous impliquer dans le quotidiens de personnes qui en ont besoins. Comme moi, devenez un propriètaire solidaire. 
+              
+               ".</p>
+            <h4>E.Vicens, propriètaire et solidaire</h4>
         </div>
 
         <div class="temoignages temoignages3">
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repudiandae, sit nihil! Debitis quidem optio quam vel similique, expedita nihil repellendus laboriosam odio placeat laborum dolorum reiciendis veritatis magnam accusantium totam.</p>
-            <h3>Madi Satourdine</h3>
+            <p>"Après une longue vie commune tumultueuse soldée par une séparation déchirante, j'ai du repartir de zéro. De nouveau dans ma région natale ma situation imposée un retour aux sources évident. J'ai eu la chance de pouvoir être hébergée chez un couple d'amis de façon provisoire. Consciente que je ne pouvais m'imposer trop longtemps dans leur vie de jeune parents, Il me fallait vite une solution. Dû à mon âge avancé et seulement bénéficiare du RSA, il était dur de trouver un patron ou un propriètaire qui me fasse confiance. Mes demandes de logement sociales n'aboutissaient pas et j'étais à deux doigts de me retrouver dans une situation très précaire. au bord du gouffre et sans issues, une rencontre chaleureuse à sonnée comme une véritable renaissance. Cathy, Incarnation même de la bienveillance. Grâce elle, je me suis enfin sentie comprise. Son écoute et sa compassion m'on enfin permis de relever la tête. Après avoir mené un travail d'arrache pieds, j'ai pu être relogée et enfin me sentir vivre de nouveau seulement quinze jours après notre rencontre. Merci infiniment".</p>
+            <h4>Béatrice, locataire</h4>
         </div>
 
     </div>
