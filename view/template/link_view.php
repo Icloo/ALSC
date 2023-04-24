@@ -1,3 +1,5 @@
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="8f777169-1331-4a85-b325-13a2be7243b9" data-blockingmode="auto" type="text/javascript"></script>
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/8f777169-1331-4a85-b325-13a2be7243b9/cd.js" type="text/javascript" async></script>
 <link rel="icon" type="image/x-icon" href="../public/favicon.ico" />
 <!-- Core theme CSS (includes Bootstrap)-->
 <link href="../public/css/style.css" rel="stylesheet" />
