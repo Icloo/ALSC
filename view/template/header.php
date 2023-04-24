@@ -1,9 +1,9 @@
 
 <header id="header">
-<a class="navbar-brand" href="../index.php"><img class="logo" src="../public/img/Logo.png" alt="Logo"></a>
+<a class="navbar-brand" href="../index.php"><img class="logo" id="logomenu" src="../public/img/Logo.png" alt="Logo"></a>
 <nav class="navbar navbar-expand-lg navbar-light">
  
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" id="responsive_menu" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
