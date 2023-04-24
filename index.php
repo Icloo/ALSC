@@ -11,10 +11,10 @@
 
 <!-- header -->
 <header id="header">
-    <a class="navbar-brand" href="#"><img class="logo" src="public/img/Logo.png"></a>
+    <a class="navbar-brand" href="#"><img class="logo" id="logomenu" src="public/img/Logo.png"></a>
     <nav class="navbar navbar-expand-lg navbar-light">
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" id="responsive_menu" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNavDropdown">

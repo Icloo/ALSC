@@ -16,6 +16,7 @@ header {
 
 .logo{
     height: 15vh !important;
+    display: flex;
 } 
 
 nav a {
@@ -952,6 +953,15 @@ form{
 
 
 @media (max-width: 768px) {
+
+    .testtest {
+        margin-top: 2vh;
+        padding: 0;
+    }
+
+    nav .lien {
+        width: 100%;
+    }
 
     .accueil_1 {
         flex-direction: column;
