@@ -67,3 +67,15 @@ $('#recipeCarousel').carousel({
 
   /////////////////////////////////////
 
+menu_responsive = document.getElementById('responsive_menu');
+logo = document.getElementById('logomenu');
+menu_responsive.addEventListener('click', responsive);
+
+function responsive() {
+
+    if(getComputedStyle(logo).display != "none"){
+        logo.style.display = "none";
+      } else {
+        logo.style.display = "block";
+      }
+}
