@@ -231,7 +231,7 @@
 
         <div class="temoignages temoignages1">
             <p>"Fraîchement arrivée dans la région en 2022, je rêvais d'un nouveau départ en toute simplicité.
-                Les aléas de la vie font que ma situation personnelle ainsi que familiale s'est doucement dégradée. Jeune maman sans emploie, le salaire de mon compagnon ne suffisait plus à subvenir aux besoins de notre petite famille. 
+                Les aléas de la vie font que ma situation personnelle ainsi que familiale s'est doucement dégradée. Jeune maman sans emploi, le salaire de mon compagnon ne suffisait plus à subvenir aux besoins de notre petite famille. 
                 Les dettes s'accumulaient et nous peinions à trouver un logement dû à notre situation. Petit à petit, les portes se fermaient et les démarches encourus ne portaient pas leurs fruits.
                 Redirigée via un organisme social, j'ai eu vent de l'association de Cathy. Prête à tout pour nous sortir de cette situation compliquée, elle à tout de suite cerné notre problème et a mis tout en oeuvre afin de nous trouver un logement.
                 Impliquée et déterminée, Cathy a su trouver les mots auprès de propriétaires qui ont confiance en sa démarche. Une vraie lueur d'espoir est apparu.
