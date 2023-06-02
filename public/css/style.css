@@ -1196,4 +1196,13 @@ form{
     .navbar-toggler {
         background-color: whitesmoke !important;
     }
+
+    .block {
+        flex-direction: column;
+    }
+
+    .propriétaire_size_image {
+        width: 90vw;
+        height: auto;
+    }
 }
