@@ -74,7 +74,7 @@
 
     <div class="accueil_1_sous_partie interieur">
         <i class="fa-solid fa-book-open"></i>
-        Contribuer à éducation à la citoyenneté, au développement du lien social et au renforcement de la cohésion territoriale.
+        Contribuer à l'éducation à la citoyenneté, au développement du lien social et au renforcement de la cohésion territoriale.
     </div>
 
     <div class="accueil_1_sous_partie interieur">
@@ -234,7 +234,7 @@
                 Les aléas de la vie font que ma situation personnelle ainsi que familiale s'est doucement dégradée. Jeune maman sans emploi, le salaire de mon compagnon ne suffisait plus à subvenir aux besoins de notre petite famille. 
                 Les dettes s'accumulaient et nous peinions à trouver un logement dû à notre situation. Petit à petit, les portes se fermaient et les démarches encourus ne portaient pas leurs fruits.
                 Redirigée via un organisme social, j'ai eu vent de l'association de Cathy. Prête à tout pour nous sortir de cette situation compliquée, elle à tout de suite cerné notre problème et a mis tout en oeuvre afin de nous trouver un logement.
-                Impliquée et déterminée, Cathy a su trouver les mots auprès de propriétaires qui ont confiance en sa démarche. Une vraie lueur d'espoir est apparu.
+                Impliquée et déterminée, Cathy a su trouver les mots auprès de propriétaires qui ont confiance en sa démarche. Une vraie lueure d'espoir est apparue.
                 Aujourd'hui, grâce à son implication sans faille, nous avons su redresser la pente et reprendre notre vie en main. Mille mercis".</p>
             <h4>Axelle, locataire</h4>
         </div>
@@ -243,7 +243,7 @@
             <p>"Étant propriétaire de plusieurs logements sur le bassin d'Issoire, j'ai connu l'association via un tract laissée dans une pharmacie. Ne connaissant absolument pas le concept de sous-locations associatifs je me suis posé la question d'une démarche plus étique basée sur la solidarité. Le temps ainsi que les frais investit dans les méthodes traditionnelles ne finissaient plus. J'ai toujours eu plaisir à prendre mon rôle de propriétaire à coeur, effectuer de petits travaux d'électricité, de maçonnerie, réparer, déboucher et j'en passe !  Aujourd'hui, je suis heureux de faire confiance à une femme qui se bat pour une cause juste, l'insertion par le logement. Les loyers sont honorés chaque mois et je suis prévenu en temps et en heure des opérations que nécessite mes biens. Les prix au m2 sont calculés en fonction du département alors certes, ce n'est pas optimal, mais ce n'est rien à côté du gain de tranquillité obtenu.
             Cathy est une femme droite dans ses bottes qui sait où elle met les pieds. Comme moi, vous pouvez aussi vous impliquer dans le quotidien de personnes qui en ont besoin. Comme moi, devenez un propriétaire solidaire. 
               ".</p>
-            <h4>E.Vicens, propriètaire et solidaire</h4>
+            <h4>E.Vicens,<br/> Propriètaire Solidaire</h4>
         </div>
 
         <div class="temoignages temoignages3">

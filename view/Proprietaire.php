@@ -44,7 +44,7 @@
 <div class="block">
     <div>
         <div>
-        <div class=""></div>
+        <div class="block_propriétaire"></div>
             <h2 class="titre">La sous location ? Une solution ! </h2>
             <div class="espaceur_2"></div>
             <p>
@@ -170,7 +170,6 @@
                         </div>
                     </div>
                 </div>
-             
             </div>
             <a class="carousel-control-prev w-auto" href="#recipeCarousel" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon bg-dark border border-dark rounded-circle" aria-hidden="true"></span>
