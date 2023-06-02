@@ -1145,8 +1145,8 @@ form{
         flex-direction: column;
     }
 
-    .prix {
-        width: 100%;
+    .dipl {
+        text-align: left;
     }
 
     footer {
@@ -1170,5 +1170,13 @@ form{
         margin-left: 10vh;
     }
 
+    .map{
+        width: 100vw;
+        margin: 45px 0px 45px 0px;
+        
+    }
 
+    .navbar-toggler {
+        background-color: whitesmoke !important;
+    }
 }

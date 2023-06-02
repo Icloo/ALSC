@@ -229,7 +229,7 @@
 
     <div class="liste_temoignages">
 
-        <div class="temoignages temoignages1">
+        <div class="temoignages temoignages1 testtesttest">
             <p>"Fraîchement arrivée dans la région en 2022, je rêvais d'un nouveau départ en toute simplicité.
                 Les aléas de la vie font que ma situation personnelle ainsi que familiale s'est doucement dégradée. Jeune maman sans emploi, le salaire de mon compagnon ne suffisait plus à subvenir aux besoins de notre petite famille. 
                 Les dettes s'accumulaient et nous peinions à trouver un logement dû à notre situation. Petit à petit, les portes se fermaient et les démarches encourus ne portaient pas leurs fruits.
@@ -239,7 +239,7 @@
             <h4>Axelle, locataire</h4>
         </div>
 
-        <div class="temoignages temoignages2">
+        <div class="temoignages temoignages2 testtesttest2">
             <p>"Étant propriétaire de plusieurs logements sur le bassin d'Issoire, j'ai connu l'association via un tract laissée dans une pharmacie. Ne connaissant absolument pas le concept de sous-locations associatifs je me suis posé la question d'une démarche plus étique basée sur la solidarité. Le temps ainsi que les frais investit dans les méthodes traditionnelles ne finissaient plus. J'ai toujours eu plaisir à prendre mon rôle de propriétaire à coeur, effectuer de petits travaux d'électricité, de maçonnerie, réparer, déboucher et j'en passe !  Aujourd'hui, je suis heureux de faire confiance à une femme qui se bat pour une cause juste, l'insertion par le logement. Les loyers sont honorés chaque mois et je suis prévenu en temps et en heure des opérations que nécessite mes biens. Les prix au m2 sont calculés en fonction du département alors certes, ce n'est pas optimal, mais ce n'est rien à côté du gain de tranquillité obtenu.
             Cathy est une femme droite dans ses bottes qui sait où elle met les pieds. Comme moi, vous pouvez aussi vous impliquer dans le quotidien de personnes qui en ont besoin. Comme moi, devenez un propriétaire solidaire. 
               ".</p>
