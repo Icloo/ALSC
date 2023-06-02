@@ -34,7 +34,6 @@ if (mode === "oui") {
     document.querySelector('.temoignages1').style.color = "black";
     document.querySelector('.temoignages2').style.color = "black";
     document.querySelector('.temoignages3').style.color = "black";
-  
     document.querySelector('.dropdown-menu').style.backgroundColor = "#171717";
     document.querySelector('.hero_espaceur').style.backgroundColor = "#171717";
     document.querySelector('.dropdown-menu').style.backgroundColor = "#171717"; 
