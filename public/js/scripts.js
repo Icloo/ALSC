@@ -29,11 +29,12 @@ if (mode === "oui") {
     document.getElementById('footer_sombre').style.color = "white";
     document.body.style.backgroundColor = "#212121";
     document.body.style.color = "white";
+    document.getElementById('header').style.backgroundColor = "#171717";
+    document.getElementById('footer').style.backgroundColor = "#171717";
     document.querySelector('.temoignages1').style.color = "black";
     document.querySelector('.temoignages2').style.color = "black";
     document.querySelector('.temoignages3').style.color = "black";
-    document.getElementById('header').style.backgroundColor = "#171717";
-    document.getElementById('footer').style.backgroundColor = "#171717";
+  
     document.querySelector('.dropdown-menu').style.backgroundColor = "#171717";
     document.querySelector('.hero_espaceur').style.backgroundColor = "#171717";
     document.querySelector('.dropdown-menu').style.backgroundColor = "#171717"; 
