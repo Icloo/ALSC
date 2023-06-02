@@ -484,6 +484,7 @@ span {
 
 .nos_missions_5_photos_gauche h3 {
   color: white;
+  text-align: center;
 }
 
 
@@ -500,6 +501,7 @@ span {
 
 .nos_missions_5_photos_droite h3 {
     color: white;
+    text-align: center;
 }
 
 .nos_missions_5_photos_droite:hover {
@@ -1049,12 +1051,19 @@ form{
         margin-left: auto;
         margin-right: auto;
         height: 100%;
+        width: 100%;
+    }
+
+    .nos_missions_5_photos_gauche h3 , .nos_missions_5_photos_droite h3{
+        text-align: center;
     }
 
     .nos_missions_5_photos_droite {
         margin-left: auto;
         margin-right: auto;
+        margin-top: 5vh;
         height: 100%;
+        width: 100%;
     }
 
     .partenaires_photo_texte {
