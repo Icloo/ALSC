@@ -411,7 +411,7 @@
 
 <div class="espaceur"></div>
 
-<h2>Rotary Club</h2>
+<!-- <h2>Rotary Club</h2>
 
 <div class="espaceur"></div>
 
@@ -490,7 +490,7 @@
         </div>
     </div>
 
-</div>
+</div> -->
 <div class="espaceur"></div>
 <div class="espaceur"></div>
 

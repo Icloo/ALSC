@@ -444,7 +444,9 @@ span {
 .nos_missions_4_droite {
     background-image: url('../img/bureau/cathy_1.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
+    background-position-y: -35vh;
     width: 50%;
     margin-left: 5vw;
     margin-right: 5vw;
@@ -533,8 +535,9 @@ p {
 }
 
 .para{
-    padding-left: 3rem;
-    padding-right: 3rem;
+    width: 50%; 
+    margin-left: auto;
+    margin: auto;
 }
 
 .block{
@@ -644,20 +647,14 @@ form{
 }
 
 .partenaires_1 {
-    margin-left: 5vw;
-    margin-right: 5vw;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .partenaires_photo_texte {
     display: flex;
     justify-content: space-between;
-}
-
-.partenaires_p {
-    font-size: 24px;
-    color: #015FA7;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .par{
@@ -671,6 +668,7 @@ form{
     margin-right: auto;
 }
 
+
 .partenaires_2_photo {
     background-image: url('../img/Ville_Issoire_Q_300dpi_transparent.png');
     background-position: center;
@@ -682,7 +680,7 @@ form{
 }
 
 .partenaires_3_photo {
-    background-image: url('../img/cdnlogo.com_rotary.svg');
+    background-image: url('../img/ccas-issoire.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -732,6 +730,27 @@ form{
     justify-content: center;
 }
 
+.partenaires_7_photo {
+    background-image: url('../img/rotary-issoire_2.svg.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0%;
+}
+
+.partenaires_8_photo {
+    background-image: url('../img/jobagglo.svg');
+    background-position: center;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
 /* ************************************************************ */
 
 .loader-container {
@@ -910,6 +929,10 @@ form{
     margin: 0rem 2rem 0 2rem;
 }
 
+.imgDons{
+    margin-left: 30%;
+}
+
 .adhe{
     /* display: flex;
     flex-direction: column; */
@@ -1074,6 +1097,13 @@ form{
 
     .partenaires_2_texte {
         width: 90%;
+        margin-left:30% ;
+    }
+
+    .partenaires_7_texte{
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .partenaires_2_photo , .partenaires_3_photo , .partenaires_4_photo , .partenaires_5_photo , .partenaires_6_photo {

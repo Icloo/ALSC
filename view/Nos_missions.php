@@ -29,13 +29,22 @@
 
 <!-- main -->
 <div class="nos_missions_1">
-    <h2 class="titre2">Association ALSC</h2>
+    <h2 class="titre2">Nos engagements et orientations <img src="../public/img/galerie_sup/rewards.png" alt="médaille d'intérêts général" style="width: 120px;height: 120px; margin-left:25px;margin-top: 10px"></h2>
 
     <div class="titre_espaceur"></div>
     
-    <p>  L’Association Logement Solidaire Cathy a pour mission principale l’insertion par le logement. </p>
-    <p>  Implantée depuis janvier 2017 sur le secteur d’Issoire, ALSC se mobilise sur le logement et l’accompagnement des ménages et des personnes isolées, confrontés à un accident de la vie ou à une période d’instabilité afin de leur permettre de trouver un équilibre. </p>
-    <p>  Nous prenons en charge les logements de propriétaires privés solidaires afin que l’association s’occupe de la gestion de leur bien et permettre à des familles d’accéder à une habitation. </p>
+    <p style="font-style:italic;text-align:center;"><b>  "Apporter des solutions d'insertion par le logement aux personnes en difficulté"</b> </p><br>
+    <p>  Créée en 2017, l’Association Logement Solidaire Cathy (ALSC) accueille et accompagne vers
+l’autonomie des personnes en situation d’insertion sociale et professionnelle. L’ALSC est
+portée par l’engagement citoyen de ses administrateurs (le bureau) et les bénévoles au service
+du logement des personnes en difficulté, dans ses dimensions sociales et solidaires. Son objectif
+principal est de favoriser l’accès et le maintien au logement des personnes fragiles et
+vulnérables. ALSC à un agrément d’intermédiation locative ainsi que l’accompagnement
+social.
+Reconnue d’intérêt général en 2018, ALSC s’est appuyée sur son expérience pour proposer et
+expérimenter des formes innovantes de prises en charge de la question du logement à Issoire,
+qui s’adaptent à l’évolution des phénomènes de précarité et d’exclusion. C’est dans cette
+optique que l’ALSC a décidé de faire de l’intermédiation locative.  </p>
 </div>
 
 <div class="espaceur"></div>
@@ -50,15 +59,36 @@
         <div class="espaceur_2"></div>
 
         <p> 
-            L’Association s’appuie sur le principe de l’intermédiation locative.
-        <br>
-            Notre principale mission ? Prendre en charge des logements de propriétaires privés, qui laissent à l’association la gestion de leur bien, afin de permettre à des familles d’accéder à un logement.
+            L’intermédiation locative, permet à l’Association de mettre à disposition, pendant une période
+            de 30 mois maximum, des logements à des occupants. L’association signe un contrat de location
+            avec des propriétaires privés pour une durée reconductible, offrant ainsi une protection contre
+            les risques d’impayés locatifs et garantissant un suivi dans l’entretien du logement.
+            L’association est donc locataire en titre et met le logement à disposition sous forme de
+            convention d’occupation temporaire.
+            En complément de l’offre de logement, ALSC met en œuvre auprès des occupants un
+            Accompagnement conduisant vers une autonomie suffisante pour accéder par la suite à un
+            logement pérenne. Cet accompagnement réalisé comporte plusieurs actions solidaires qui
+            favorisent :
+            L’Association intervient principalement à Issoire et travaille en partenariat avec le CCAS. Le
+            partenariat avec les autorités, qui accompagnent nos actions est permanent et en cohérence
+            avec les projets sociaux mise en œuvre sur le territoire Issorien. 
+            <br>
+                <ul>
+                    <li>Une aide à déménager et à habiter son logement à titre exceptionnelle.</li>
+                    <li>Une aide aux démarches administratives.</li>
+                    <li>Un accompagnement spécifique visant à une insertion sociale et professionnelle.</li>
+                    <li>Un accompagnement logistique et technique dans le logement.</li>
+                </ul>
         </p>
         <p>
             Une personne seule ou une famille, peut-être orientée vers l’association pour faire une demande de logement. À partir de ce moment, un logement peut être attribué.  
         </p>
         <p>
-        Des dons de vêtements, de vaisselles et de jouets sont essentiels à la vie quotidienne des personnes aidées. L’association fonctionne uniquement, par le biais de dons, d’adhésions et de subventions. 
+            L’Association intervient principalement à Issoire et travaille en partenariat avec le CCAS. Le
+            partenariat avec les autorités, qui accompagnent nos actions est permanent et en cohérence
+            avec les projets sociaux mise en œuvre sur le territoire Issorien. 
+            <br> 
+            L’association fonctionne uniquement, par le biais de dons, d’adhésions et de subventions. 
         </p>
 
     </div>
@@ -133,6 +163,12 @@
 
     <div class="nos_missions_5_photos">
 
+
+    <a href="Proprietaire.php" class="nos_missions_5_photos_droite">
+        <div>
+            <h3>VOUS ÊTES PROPRIETAIRE ?</h3>
+        </div>
+    </a>
     
     <a href="Locataires.php" class="nos_missions_5_photos_gauche">
         <div>
@@ -142,11 +178,7 @@
 
 
     
-    <a href="Proprietaire.php" class="nos_missions_5_photos_droite">
-        <div>
-            <h3>VOUS ÊTES PROPRIETAIRE ?</h3>
-        </div>
-    </a>
+
     
 
     </div>

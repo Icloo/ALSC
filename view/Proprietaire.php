@@ -29,14 +29,16 @@
 <div class="espaceur"></div>
 
 <!-- main -->
-<h2 class="titre2"> Propriétaires et solidaires</h2>
+<h2 class="titre2"> Propriétaires et Solidaires</h2>
 
 <div class="titre_espaceur"></div>
 
 <p class="para">
-    Dans un esprit de solidarité, nous recherchons des propriétaires dit solidaires, c’est-à-dire dont le souhait est d’aider des personnes en situation précaire à
-    trouver un logement. C’est que des avantages pour vous, car nous vous donnons la garantie d’un loyer car nous sommes vos locataires, nous vous 
-    garantissons un logement remis en état et en plus vous ne déclarez seulement que 15% des revenus fonciers.
+    Dans un esprit de solidarité, nous recherchons des propriétaires dits "Solidaires". Des propriétaires dont le souhait est d’aider des personnes en situation de précarité à
+    trouver un logement. <br>
+    Nous vous donnons la certitude d’un loyer toujours à l'heure et des garanties immuables concernant votre bien.<br>
+    L'association devient votre locataire et nous vous 
+    prommettons un logement remis en état.
 </p>
 
 <div class="espaceur"></div>
@@ -45,21 +47,22 @@
     <div>
         <div>
         <div class="block_propriétaire"></div>
-            <h2 class="titre">La sous location ? Une solution ! </h2>
+            <h2 class="titre">La sous location, une solution ! </h2>
             <div class="espaceur_2"></div>
             <p>
-                La convention location implique que le propriétaire
-                solidaire accorde une réduction <br>de 20% pour soutenir
+                La convention locative implique que le propriétaire
+                solidaire accorde une réduction <br>
+                de 20% pour soutenir
                 l’association qui supporte l’intégralité des
                 risques locatifs.
             </p>
             <p>
-                C'est un travail de collaboration avec les municipalités et la
-                région. Nous étudions <br>la situation des personnes en
-                situation précaire.
-            </p>
+                C'est un travail de collaboration avec les propriétaires. Nous étudions <br>
+                le dossier des personnes en
+                situation de précarités avec la plus grande minutie.</p>
             <p>
-                Nous sommes votre locataire et nous garantissons vos loyers et la remise en état<br>de votre logement. 
+                Nous sommes votre locataire et nous garantissons vos loyers et la remise en état<br>
+                de votre logement. 
             </p>
         </div>
         <div class="espaceur"></div>
@@ -69,7 +72,7 @@
             <ul>
                 <li>Un loyer, même en cas de vacances</li>
                 <li>La garantie d'un logement remis en état</li>
-                <li>Vous ne déclarez que 15% des revenus fonciers</li>
+                <li>Un avantage fiscale sur vos revenus fonciers</li>
             </ul>
         </div>
     </div>
@@ -89,7 +92,7 @@
 <div class="espaceur"></div>
 <p>
     Nous lançons un appel aux propriétaire privés !
-    Le prix au mètre carré (m2), aussi appelé tarif social est fixé par
+    Le prix au mètre carré (m²), aussi appelé tarif social est fixé par
     le département.
 </p>
 </div>

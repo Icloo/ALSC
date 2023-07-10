@@ -29,17 +29,17 @@
 <div class="espaceur"></div>
 
 <!-- main -->
-<h2 class="titre2">Le réseau de ALSC</h2>
+<h2 class="titre2">ALSC et son Réseau</h2>
 
 <div class="titre_espaceur"></div>
 
 <div class="partenaires_1">
-    <p>Grâce à c’est nombreux partenaires, ALCS est encore là aujourd’hui et nous tenons à les remercier car, c’est grâce à eux que nous pouvons continuer à aider les personnes en difficultés.
+    <p>Grâce à nos nombreux partenaires, ALSC est encore là aujourd’hui et nous tenons à les remercier.<br>
+     Leur contribution nous permet de continuer à aider les personnes en difficultés.
         <br>
-    Bien sûr ces soutiens sont tous importants pour nous car il nous aide, que ce soit par des donations, des legs, des adhésions, des parrainages ou bien d’autres choses.
+    Bien sûr, ces soutiens sont tous importants, que ce soit par des donations, des adhésions ou des parrainages
     </p>
     <div class="espaceur"></div>
-    <p class="partenaires_p">Nous tenons à remercier tout particulièrement </p>
 </div>
 
 <div class="espaceur"></div>
@@ -70,7 +70,7 @@
 
 <div class="partenaires_3">
 
-    <h2>L’Association ROTARY Club d'issoire</h2>
+    <h2>Le CCAS d'Issoire</h2>
 
     <div class="espaceur"></div>
 
@@ -80,10 +80,63 @@
         <div class="partenaires_3_photo"></div>
 
         <div class="partenaires_2_texte">
+        <p> Le Centre communal d'action sociale (CCAS) d'Issoire est un établissement public administratif. Le CCAS propose un ensemble de prestations pour remédier aux situations de précarité ou de difficulté sociale touchant notamment les familles, les personnes âgées, les personnes sans emploi et les personnes en situation de handicap. Le public de la commune y est conseillé sur les droits sociaux, orienté vers les partenaires locaux ou directement pris en charge.</p>
+            
+        <a href="https://annuaire.action-sociale.org/?c=c-c-a-s-d-issoire-630786523&details=caracteristiques"  target="_blank" ><button class="accueil_bouton2 from-right par">En savoir + </button></a>
+        </div>
+        
+
+    </div>
+
+</div>
+
+<div class="espaceur"></div>
+<div class="espaceur"></div>
+
+<div class="partenaires_4">
+
+    <h2>L'Association ROTARY club d'Issoire</h2>
+
+    <div class="espaceur"></div>
+
+    <div class="partenaires_photo_texte">
+
+        <div class="partenaires_2_texte">
             <p>
-                Le Rotary tire sa force du dynamisme et de l’engagement de ses 1,4 million de membres dans plus de 46 000 clubs dans le monde.</p><p> Ensemble, nous changeons des vies dans notre ville et à travers le monde.</p>
-            </p>
+            Le Rotary est une organisation mondiale de plus 1.2 million de membres issus du monde des affaires, des professions libérales, du monde civique.
+Les membres des Rotary clubs, appelés Rotariens, apportent un service humanitaire, encouragent l’observation de hautes normes éthiques dans le cadre professionnel, et aident à développer bonne volonté et paix à travers le monde.
+
+Il y a plus de 33 000 Rotary clubs dans plus de 200 pays et territoires. Les clubs sont apolitiques, non religieux et sont ouverts à toutes cultures et croyances.
+Comme la devise du Rotary, Servir d’abord, l’indique, son objectif principal est le service à autrui, dans les collectivités, sur les lieux de travail et à travers le monde.</p>
+            </p>   
+        
             <a href="https://issoire.rotaryd1740.org/"  target="_blank" ><button class="accueil_bouton2 from-right par">En savoir + </button></a>
+        </div>
+        <div class="partenaires_7_photo"></div>
+
+    </div>
+
+</div>
+
+<div class="espaceur"></div>
+<div class="espaceur"></div>
+
+<div class="partenaires_3">
+
+    <h2>Job'agglo</h2>
+
+    <div class="espaceur"></div>
+
+    <div class="partenaires_photo_texte">
+
+
+        <div class="partenaires_8_photo"></div>
+
+        <div class="partenaires_2_texte">
+            <p>
+            Le Groupe Job’agglo met la performance économique de son groupe au service de son projet social : favoriser l’accès à l’emploi des personnes qui en sont éloignées.
+            Grâce à ses différentes structures, le Groupe Job’agglo propose à ses salariés des parcours professionnels adaptés à leurs compétences, à leurs situations et à leurs projets professionnels. Le Groupe Job’agglo les accompagne tout au long de ce parcours, afin de leur permettre de (ré)intégrer plus facilement le marché du travail.</p>
+            <a href="https://www.jobagglo.fr/"  target="_blank" ><button class="accueil_bouton2 from-right par">En savoir + </button></a>
         </div>
         
 

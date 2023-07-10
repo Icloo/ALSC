@@ -36,7 +36,18 @@
 
 <p class="para">
     Prônant l’insertion de l’individu par le logement, ALSC de Cathy propose de loger des personnes en difficulté sur Issoire et ses proches alentours.
-    Car le logement n’attend pas, nous sommes engagés à vous fournir le meilleur service dans les plus brefs délais.   
+    Car le logement n’attend pas, nous sommes engagés à vous fournir le meilleur service dans les plus brefs délais. 
+    Si le logement est le préalable de toute démarche d’insertion, L’Association intervient principalement à Issoire et travaille en partenariat avec le CCAS. Le
+            partenariat avec les autorités, qui accompagnent nos actions est permanent et en cohérence
+            avec les projets sociaux mise en œuvre sur le territoire Issorien. 
+            <br><br>
+                <ul class="para">
+                    <li>Une aide à déménager et à habiter son logement à titre exceptionnelle.</li>
+                    <li>Une aide aux démarches administratives.</li>
+                    <li>Un accompagnement spécifique visant à une insertion sociale et professionnelle.</li>
+                    <li>Un accompagnement logistique et technique dans le logement.</li>
+                </ul>
+        </p>
 </p>  
 
 <div class="espaceur"></div>
@@ -92,7 +103,7 @@
 
 <div class="espaceur"></div>
 
-<h2>Événements Solidaire</h2>
+<h2>Événements Solidaires</h2>
 
 <div class="espaceur_2"></div>
 
@@ -118,7 +129,7 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/308255347_452885903577219_4412123210667523789_n.jpg" alt="Issoire rose">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/308305347_452885903577219_4412123210667523789_n.jpg" alt="Issoire rose">
                         </div>
                     </div>
                 </div>
