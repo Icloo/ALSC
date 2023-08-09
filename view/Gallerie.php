@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php include('template/link_view.php'); ?>
-    <title>Gallerie</title>
+    <title>Galerie</title>
 </head>
 
 <!-- header -->
@@ -129,63 +129,63 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/cathy_1.jpg" ureau de Cathy">
+                            <img class="img-fluid" src="../public/img/bureau/cathy_1.jpg" alt="bureau de Cathy">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/IMG_6179.jpg" ocaux de travail">
+                            <img class="img-fluid" src="../public/img/IMG_6179.jpg" alt=" locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG_6172.jpg" ocaux de travail">
+                            <img class="img-fluid" src="../public/img/bureau/IMG_6172.jpg" alt=" locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG_6250.jpg" ocaux de travail">
+                            <img class="img-fluid" src="../public/img/bureau/IMG_6250.jpg" alt=" locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG-20220301-WA0011.jpeg" ocaux de travail">
+                            <img class="img-fluid" src="../public/img/bureau/IMG-20220301-WA0011.jpeg" alt=" locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/IMG_6175.jpg" ocaux de travail">
+                            <img class="img-fluid" src="../public/img/bureau/IMG_6175.jpg" alt="locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/Marie au bureau.jpg" ureau de Marie">
+                            <img class="img-fluid" src="../public/img/bureau/Marie au bureau.jpg" alt=" bureau de Marie">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/travaux_3.jpg" ocaux de travail">
+                            <img class="img-fluid" src="../public/img/bureau/travaux_3.jpg" alt=" locaux de travail">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/bureau/MELVIN ET FRED AU BUREAU.jpg" ureau de Melvin et Fred">
+                            <img class="img-fluid" src="../public/img/bureau/MELVIN ET FRED AU BUREAU.jpg" alt=" bureau de Melvin et Fred">
                         </div>
                     </div>
                 </div>
@@ -209,49 +209,49 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_1.jpg" oiture de l'association">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_1.jpg" alt=" voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_7.jpg" oiture de l'association">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_7.jpg" alt=" voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_6.jpg" oiture de l'association">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_6.jpg" alt=" voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_2.jpg" oiture de l'association">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_2.jpg" alt=" voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_3.jpg" oiture de l'association">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_3.jpg" alt=" voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_4.jpg" oiture de l'association">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_4.jpg" alt=" voiture de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/voiture/voiture_5.jpg" oiture de l'association">
+                            <img class="img-fluid" src="../public/img/voiture/voiture_5.jpg" alt=" voiture de l'association">
                         </div>
                     </div>
                 </div>
