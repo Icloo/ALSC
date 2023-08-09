@@ -21,19 +21,19 @@
 <div class="hero_Gallerie">
     <div></div>
     <div class="titre_hero_nos_missions">
-        <h1>Gallerie</h1>
+        <h1>Galerie</h1>
     </div> 
 </div>
 
 <main>
 <div class="espaceur"></div>
-<h2 class="titre2">Gallerie</h2>
+<h2 class="titre2">Galerie</h2>
 <div class="titre_espaceur"></div>
 <div class="cont">
     <p class="para">
         Découvrez notre selection de photos relative à notre association.
-        ALSC oeuvre au quotidien dans de <br> nouvelles activités toujours plus enrichissante ! 
-        Heureux de partager ses moments, nous vous <br> faisons part de nos aventures <br> 
+        ALSC oeuvre au quotidien dans de <br> nouvelles activités toujours plus enrichissantes ! 
+        Heureux de partager ses moments, nous vous <br> faisons part de nos aventures. <br> 
    </div> 
     <div class="espaceur"></div>
 
@@ -264,7 +264,7 @@
 
 <div class="espaceur"></div>
 
-<h2>Événements Solidaire</h2>
+<h2>Événements Solidaires</h2>
 
 <div class="container text-center my-3">
 <div class="espaceur"></div>
@@ -274,43 +274,35 @@
                 <div class="carousel-item active">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/20180901_112346.jpg" xposition de l'association">
+                            <img class="img-fluid" src="../public/img/20180901_112346.jpg" alt="exposition de l'association">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/277796635_669193081470352_3078320550928381375_n.jpg" ssoire rose">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/277796635_669193081470352_3078320550928381375_n.jpg" alt="issoire rose0">
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/308255347_452885903577219_4412123210667523789_n.jpg" alt="issoire rose1">
+                        </div>
+                    </div>
+                </div> -->
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/72989229_701742430339300_4967003899706736640_n.jpg" alt="issoire rose2">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/308255347_452885903577219_4412123210667523789_n.jpg" ssoire rose">
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/72989229_701742430339300_4967003899706736640_n.jpg" ssoire rose">
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/75224660_701742627005947_1133728665855590400_n.jpg" ssoire rose">
-                        </div>
-                    </div>
-                </div>
-
-                <div class="carousel-item">
-                    <div class="col-md-4">
-                        <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/expo Association Vendredi Issoire 26 aout.jpg" xposition de l'association le Vendredi">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/75224660_701742627005947_1133728665855590400_n.jpg" alt="issoire rose3">
                         </div>
                     </div>
                 </div>
@@ -318,28 +310,36 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/expo avec Khadim.jpg" xposition de l'association avec Khadim">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/expo Association Vendredi Issoire 26 aout.jpg" alt="exposition de l'association le Vendredi">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item">
+                    <div class="col-md-4">
+                        <div class="card card-body">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/expo avec Khadim.jpg" alt="exposition de l'association avec Khadim">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/fred popo.jpg" ssoire rose">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/fred popo.jpg" alt="issoire rose4">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/Massabielle2961.jpg" estival à l'ALSC">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/Massabielle2961.jpg" alt="Festival à l'ALSC">
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/sevigne12960.jpg" estival à l'ALSC">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/sevigne12960.jpg" alt="Festival à l'ALSC">
                         </div>
                     </div>
                 </div>

@@ -33,7 +33,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
         <a class="dropdown-item" href="./Qui_sommes_nous.php">Qui sommes-nous ?</a>
-          <a class="dropdown-item" href="./Gallerie.php">Gallerie</a>
+          <a class="dropdown-item" href="./Gallerie.php">Galerie</a>
         </div>
       <li class="nav-item">
         <a class="nav-link" href="./Contact.php">Contact</a>

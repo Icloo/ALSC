@@ -89,14 +89,14 @@
     <div>
         <h2>Nous localiser</h2>
         <div class="espaceur_2"></div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2794.3500960852!2d3.2466131!3d45.5432824!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f65608fe23aa65%3A0x828b49657f417000!2s15%20Bd%20de%20la%20Manli%C3%A8re%2C%2063500%20Issoire%2C%20France!5e0!3m2!1sfr!2suk!4v1691571593459!5m2!1sfr!2suk" width="500" height="250" style="border:0; margin-bottom:25px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2794.3500960852!2d3.2466131!3d45.5432824!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f65608fe23aa65%3A0x828b49657f417000!2s15%20Bd%20de%20la%20Manli%C3%A8re%2C%2063500%20Issoire%2C%20France!5e0!3m2!1sfr!2suk!4v1691571593459!5m2!1sfr!2suk" width="500" height="250" style="border:0; margin-bottom:35px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <p class="local">
-            15 Bd de la Malière<br>
+            15 Bd de la Malière,
             63500 Issoire<br>
             Lundi et Mardi de 9h à 16h30<br>
-            et le Mercredi matin<br>
+            et le Mercredi matin
             de 9h à 11h30<br>
-            uniquement sur RDV.
+            <strong>Uniquement sur RDV.</strong>
             <br><br>
         </p>
     </div>
