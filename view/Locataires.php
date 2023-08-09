@@ -129,7 +129,7 @@
                 <div class="carousel-item">
                     <div class="col-md-4">
                         <div class="card card-body">
-                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/308305347_452885903577219_4412123210667523789_n.jpg" alt="Issoire rose">
+                            <img class="img-fluid" src="../public/img/festivaldelasolidarite/photo_ev.jpg" alt="Issoire rose">
                         </div>
                     </div>
                 </div>

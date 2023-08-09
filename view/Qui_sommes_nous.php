@@ -58,17 +58,20 @@
         <div class="espaceur"></div>
         <p>Son engagement passera donc par le logement et l'accompagnement social. <br> <br>
 
-            ALSC en quelques chiffres: depuis sa création :
+            ALSC en quelques chiffres depuis sa création :
         <ul>
             <li>16 logements en intermédiations </li>
             <li>95 personnes relogées, avec le concours des bailleurs sociaux, propriétaire privés et ALSC </li>
             <li>5 bénévoles dont Cathy elle-même. </li>
         </ul>
-        Pour 2022 ce sont :
-        <ul>
-            <li>11 logements en intermédiation </li>
-            <li>110 personnes reçues à l'association pour un premier accueil </li>
-            <li>85 adhérents</li>
+        Pour 2023 ce sont :
+        <ul><br>
+            <li>6 Propriétaires privés</li>
+            <li>9 logements en intermédiation locative gérés par L'ALSC</li>
+            <li>85 Personnes accueillis</li>
+            <li>48 Personnes ou familles logées</li>
+            <li>5 Bénévoles</li>
+            <li>84 adhérents</li>
         </ul>
         </p>
         <div class="espaceur"></div>
@@ -89,7 +92,6 @@
     </div>
 
     <div class="qsn_3_image"></div>
-
 
 </div>
 

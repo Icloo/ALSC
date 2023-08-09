@@ -229,15 +229,15 @@ Comme la devise du Rotary, Servir d’abord, l’indique, son objectif principal
 
 </div>
 
-<div class="espaceur"></div>
+<!-- <div class="espaceur"></div>
 
-<div class="espaceur"></div>
+<div class="espaceur"></div> -->
 
-<h2>Rotary Club</h2>
+<!-- <h2>Rotary Club</h2>
 
-<div class="espaceur_2"></div>
+<div class="espaceur_2"></div> -->
 
-<div class="container text-center my-3">
+<!-- <div class="container text-center my-3">
     
     <div class="row mx-auto my-auto qns">
         <div id="recipeCarousel" class="carousel slide w-100" data-ride="carousel">
@@ -320,7 +320,7 @@ Comme la devise du Rotary, Servir d’abord, l’indique, son objectif principal
         </div>
     </div>
     
-</div>
+</div> -->
 
 <div class="espaceur"></div>
 <div class="espaceur"></div>
